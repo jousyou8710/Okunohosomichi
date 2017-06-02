@@ -101,13 +101,13 @@
 			navigationInstructionsInitiallyVisible: false,
 			geocoder: false,
 			//時間を使うときは以下の二行をコメントアウト
-			timeline: false,
-			animation: false,
+			//timeline: false,
+			//animation: false,
 			sceneModePicker: false,
 			baseLayerPicker: false,
 			scene3DOnly: true,
 			//地形を強調する際は値を変更
-			terrainExaggeration: 1.0
+			terrainExaggeration: 1.3
 		});
 
 		//ダブルクリック操作を付加
@@ -237,7 +237,8 @@
 
 		//時間情報入りのKML
 		kmlDataArray[0] = new kmlData("奥の細道", 'data/kml/okunohosomiti2.kml ');
-		kmlDataArray[1] = new kmlData("深川～杉原杉風", 'data/kml/hajimari.kml');
+		kmlDataArray[1] = new kmlData("奥の細道", 'data/kml/tabiji.kml ');
+		//kmlDataArray[1] = new kmlData("深川～杉原杉風", 'data/kml/hajimari.kml');
 
 		function loadKml() {
 			var i = 0;
@@ -358,6 +359,7 @@
 				}
 			);
 		}
+
 
 		// ========== ダブルクリックでストビューを表示 ==========
 
