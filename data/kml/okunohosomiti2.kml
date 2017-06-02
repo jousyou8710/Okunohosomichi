@@ -1,0 +1,2563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>okunohosomiti2.kml</name>
+	<open>1</open>
+	<Style id="sn_samidare0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/samidare.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_unohana0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/unohana.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_monokakite0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/monokakite.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_sabisisa0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/sabisisa.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_tukikiyo0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/tukikiyo.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_akisuzusi0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/akisuzusi.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_tuki0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/tuki.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_sakura0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_sakura0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_sakura0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_muzan0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/muzan.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_sessyou0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/sessyou.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_itihuri0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/itihuri.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_sanae0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_sanae0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_sanae0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_tukikiyo0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/tukikiyo.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_yonohito0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/yonohito.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_021">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/02.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_monokakite0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_monokakite0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_monokakite0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_tukiyama0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/tukiyama.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_muzan0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_muzan0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_muzan0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_atukihi0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/atukihi.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_zenji0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/zenji.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_yamanakaya0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/yamanakaya.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ayame0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ayame0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ayame0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_naniwagata0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/naniwagata.JPG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_taitimai0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_taitimai0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_taitimai0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_aratau0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_aratau0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_aratau0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_kitutuki0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_kitutuki0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_kitutuki0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_yonohito0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/yonohito.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_sanae0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/sanae.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_natukusaya0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/natukusaya.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_arigataya0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/arigataya.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ishiyamano0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/ishiyamano.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_kitutuki0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/kitutuki.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_zenji0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_zenji0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_zenji0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_shiorasiki0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/shiorasiki.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_hamaguri0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/hamaguri.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_sizukesa0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/sizukesa.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_arigataya0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/arigataya.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ishiyamano0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ishiyamano0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ishiyamano0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_siokoe0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/siokoe.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_wasenoka0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/wasenoka.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_0200">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/02.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_matsusima0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_matsusima0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_matsusima0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_suzusisa0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_suzusisa0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_suzusisa0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_f05">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/f05.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_sao0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_sao0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_sao0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_hamaguri0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_hamaguri0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_hamaguri0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_tukikiyo0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_tukikiyo0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_tukikiyo0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_zennsyou0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/zennsyou.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_jinja0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_jinja0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_jinja0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_atumiyama0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/atumiyama.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_hikaridou0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/hikaridou.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_taitimai0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/taitimai.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_muzan0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/muzan.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_haguro0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_haguro0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_haguro0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_haguro0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/haguro.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_f05">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_f05</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_f05</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_atukihi0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_atukihi0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_atukihi0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_naniwagata0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/naniwagata.JPG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_kitutuki0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/kitutuki.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_suzusisa0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/suzusisa.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_natuyama0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/natuyama.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_aratau0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/aratau.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_akisuzusi0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_akisuzusi0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_akisuzusi0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ishiyamano0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/ishiyamano.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_kasa0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/kasa.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_hikaridou0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_hikaridou0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_hikaridou0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_sessyou0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/sessyou.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_kasane0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/kasane.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_yudennsann0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_yudennsann0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_yudennsann0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_suzusisa0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/suzusisa.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_kasa0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_kasa0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_kasa0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_gyousui0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/gyousui.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_unohana0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/unohana.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_wasenoka0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wasenoka0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wasenoka0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_humituki0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/humituki.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_sabisisa0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_sabisisa0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_sabisisa0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_humituki0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/humituki.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_akisuzusi0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/akisuzusi.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_arigataya0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arigataya0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arigataya0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_matsusima0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/matsusima.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_sessyou0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_sessyou0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_sessyou0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_samidare0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/samidare.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_huuryuya0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_huuryuya0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_huuryuya0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_sizukesa0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/sizukesa.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_natukusaya0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_natukusaya0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_natukusaya0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_itihuri0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/itihuri.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_kaiko0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_kaiko0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_kaiko0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_taitimai0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/taitimai.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_unohana0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_unohana0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_unohana0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_kasane0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_kasane0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_kasane0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_natukusaya0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/natukusaya.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_sakura0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/sakura.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_sao0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/sao.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_huuryuya0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/huuryuya.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ayame0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/ayame.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_yudennsann0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/yudennsann.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_gyousui0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_gyousui0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_gyousui0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_hamaguri0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/hamaguri.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_sanae0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/sanae.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_kaiko0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/kaiko.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_naniwagata0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_naniwagata0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_naniwagata0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_tuki0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_tuki0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_tuki0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_yudennsann0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/yudennsann.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_natuyama0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/natuyama.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_hikaridou0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/hikaridou.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_kasa0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/kasa.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_matsusima0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/matsusima.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_tuki0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/tuki.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_huuryuya0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/huuryuya.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_021">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_021</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_0200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_zenji0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/zenji.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_gyousui0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/gyousui.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_yonohito0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_yonohito0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_yonohito0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_jinja0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/jinja.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_itihuri0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_itihuri0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_itihuri0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_atumiyama0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/atumiyama.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_yamanakaya0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/yamanakaya.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_samidare0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_samidare0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_samidare0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_siokoe0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/siokoe.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_zennsyou0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_zennsyou0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_zennsyou0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_sakura0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/sakura.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_humituki0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_humituki0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_humituki0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_sabisisa0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/sabisisa.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_f05">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/f05.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_shiorasiki0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shiorasiki0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shiorasiki0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_atukihi0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/atukihi.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_monokakite0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/monokakite.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_kasane0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/kasane.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_jinja0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/jinja.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_zennsyou0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/zennsyou.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_tukiyama0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/tukiyama.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_tukiyama0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_tukiyama0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_tukiyama0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_kaiko0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/kaiko.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_aratau0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/aratau.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ayame0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>image/ayame.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_siokoe0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_siokoe0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_siokoe0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_yamanakaya0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_yamanakaya0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_yamanakaya0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_haguro0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/haguro.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_atumiyama0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_atumiyama0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_atumiyama0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_shiorasiki0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>image/shiorasiki.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_sizukesa0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_sizukesa0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_sizukesa0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_sao0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>../../image/sao.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_natuyama0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_natuyama0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_natuyama0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_wasenoka0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../../image/wasenoka.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>okunohosomiti</name>
+		<open>1</open>
+		<Placemark>
+			<name>48.大垣</name>
+			<description><![CDATA[<img src="http://www.kankou-gifu.jp/image.php?w=420&p=.&f=/db_img/cl_img/893/main.JPG"><br>蛤のふたみにわかれ行秋ぞ
+<br>
+〔離れがたい蛤のふたと身が別れていくように、お別れの時が来た。私は二見浦へ旅立っていく。もう秋も過ぎ去ろうとしている。〕
+<br>
+（大垣　1689年9月6日）
+<br>
+<br>
+<img src="http://blogs.c.yimg.jp/res/blog-e4-95/ddbyn356/folder/536558/94/14175494/img_0?1318947456">]]></description>
+			<LookAt>
+				<longitude>136.6118437000943</longitude>
+				<latitude>35.35605750019528</latitude>
+				<altitude>0</altitude>
+				<heading>5.461966554477297e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000003213382</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_hamaguri0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.6118969252454,35.35593209638885,13.42566845993125</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>47.種の浜</name>
+			<description><![CDATA[<img src="http://img.4travel.jp/img/tcs/t/album/500/10/75/06/500_10750682.jpg?1361029315"><br>寂しさや須磨にかちたる浜の秋<br>
+
+〔光源氏が配流された須磨は淋しい場所として知られるが、ここ種の浜は須磨よりはるかに淋しいことよ。〕
+<br><br>
+波の間や小貝にまじる萩の塵
+<br>
+〔波打ち際の波の間をよく見ると、小貝に混じって赤い萩の花が塵のように散っている。〕
+<br>
+（種の浜（色の浜）　1689年8月16日）]]></description>
+			<LookAt>
+				<longitude>136.0508021035071</longitude>
+				<latitude>35.73341361306518</latitude>
+				<altitude>0</altitude>
+				<heading>0.00544233658374965</heading>
+				<tilt>0</tilt>
+				<range>8851.970858118259</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_sabisisa0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.0357294256322,35.7406608790681,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>46.出雲屋跡</name>
+			<description><![CDATA[<img src="http://hide-ogr.la.coocan.jp/honsyu/hosomichi_6/No76/P4160101.jpg"><br>名月や北国日和定なき
+<br>
+〔今夜は中秋の名月を期待していたのに、あいにく雨になってしまった。本当に北国の天気は変わりやすいものなのだな。〕
+<br>
+（敦賀　出雲屋　1689年8月15日）]]></description>
+			<LookAt>
+				<longitude>136.0702231252355</longitude>
+				<latitude>35.6557185687985</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0006773542859540088</heading>
+				<tilt>21.10379004849118</tilt>
+				<range>243.4656077279316</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_tuki0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.0699749586194,35.65576498891943,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>45.氣比神宮</name>
+			<description><![CDATA[<img src="http://www.turuga.org/places/mcourse_basyou/images/mcourse_basyou_kehijingu.jpg"><br>月清し遊行のもてる砂の上<br>
+
+〔その昔、遊行二世上人が気比明神への参詣を楽にするために運んだという白砂。その白砂の上に清らかな月が輝いている。砂の表面に月が反射してきれいだ。清らかな眺めだ。〕
+<br>
+（氣比神宮　1689年8月14日）]]></description>
+			<LookAt>
+				<longitude>136.0754625242854</longitude>
+				<latitude>35.6546699104827</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004281487540600701</heading>
+				<tilt>6.338830055194227</tilt>
+				<range>666.6836986510582</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_tukikiyo0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.0747867574269,35.65489858400315,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>44.天龍寺</name>
+			<description><![CDATA[<img src="http://cdn-ak.f.st-hatena.com/images/fotolife/c/cippillo/20141027/20141027082428.jpg"><br>物書て扇引さく余波哉
+<br>
+〔金沢の北枝としばらく同行してきたが、いよいよお別れだ。道すがら句を書きとめてきた扇を引き裂くように、また夏から秋になって
+扇をしまうように、それは心痛む別れなのだ。〕
+<br>
+（天龍寺　1689年8月12日)]]></description>
+			<LookAt>
+				<longitude>136.2997259388377</longitude>
+				<latitude>36.09062282563343</latitude>
+				<altitude>0</altitude>
+				<heading>5.991975367855477e-005</heading>
+				<tilt>50.93330310254559</tilt>
+				<range>161.3362785369296</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_monokakite0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.2995753533998,36.09066237852748,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>43.全昌寺</name>
+			<description><![CDATA[<img src="http://blogs.c.yimg.jp/res/blog-72-25/maritesuhime/folder/1482751/01/51461501/img_2?1253282265"><br>終宵秋風聞やうらの山　【曾良】
+<br>
+〔裏山を吹く淋しい秋風の音を一晩中きいて、眠れない夜であったよ。一人旅の寂しさが骨身にしみる。〕
+<br><br>
+庭掃て出ばや寺に散柳
+<br>
+〔寺の境内に柳の葉が散り敷いている。寺に泊めてもらったお礼に、ほうきで掃いてから出発しよう。〕
+<br>
+（加賀 全昌寺　1689年8月6日～8月10日)]]></description>
+			<LookAt>
+				<longitude>136.3088432030069</longitude>
+				<latitude>36.30135017505675</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6175527542154389</heading>
+				<tilt>30.00044441838255</tilt>
+				<range>216.0304780931384</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_zennsyou0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.3088432030069,36.30135017505674,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>42.山中温泉</name>
+			<description><![CDATA[<img src="http://img.allabout.co.jp/gm/article/416392/yamanaka4.jpg"><br>山中や菊はたおらぬ湯の匂
+<br>
+〔菊の露を飲んで七百歳まで生きたという菊児童の伝説があるが、ここ山中では菊の力によらずとも、この湯の香りを吸っていると十分に長寿のききめがありそうだ。 〕
+<br><br>
+行き行きて倒れ伏すとも萩の原　【曾良】
+<br>
+〔このまま行けるところまで行って、最期は萩の原で倒れ、旅の途上で死のう。それくらいの、旅にかける志である。〕
+<br><br>
+今日よりや書付消さん笠の露
+<br>
+〔ずっと旅を続けてきた曾良とはここで別れ、これからは一人道を行くことになる。笠に書いた「同行二人」の字も消すことにしよう。笠にかかる露は秋の露か、それとも私の涙か。〕
+<br>
+（山中　1689年7月27日～8月5日)]]></description>
+			<LookAt>
+				<longitude>136.3766306329515</longitude>
+				<latitude>36.24994036214108</latitude>
+				<altitude>0</altitude>
+				<heading>0.0008582984629674176</heading>
+				<tilt>60.00424671744737</tilt>
+				<range>517.9747102770881</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_yamanakaya0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.3766306329515,36.24994036214108,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>41.那谷寺</name>
+			<description><![CDATA[<img src="http://www.tabimati.net/wp/wp-content/uploads/2012/02/natadera1.jpg"><br>石山の石より白し秋の風<br>
+
+〔那谷寺の境内にはたくさんの白石があるが、それより白く清浄に感じるのが吹き抜ける秋の風だ。境内にはおごそかな空気がたちこめている。 〕<br>
+
+（那谷寺　1689年7月26日)]]></description>
+			<LookAt>
+				<longitude>136.4213973394499</longitude>
+				<latitude>36.31328695647891</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004517532546459523</heading>
+				<tilt>0</tilt>
+				<range>1027.683517808984</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ishiyamano0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.4213973394499,36.31328695647891,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>40.太田神社</name>
+			<description><![CDATA[<img src="http://www.intweb.co.jp/basyou/image/kouhan/DSC_0045_edited-1.jpg"><br>むざんやな甲の下のきりぎりす
+<br>
+〔痛ましいことだ。勇ましく散った実盛の名残はもうここには無く、かぶとの下にはただ コオロギが鳴いている。〕
+<br>
+（金沢　1689年7月26日)]]></description>
+			<LookAt>
+				<longitude>136.4602000241408</longitude>
+				<latitude>36.38626100230049</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1341969321938385</heading>
+				<tilt>0</tilt>
+				<range>20789.62174004199</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_muzan0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.4602000241407,36.38626100230049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>39.小松</name>
+			<description><![CDATA[<img src="http://asset.recipe-blog.jp/cache/images/item/e2/38/df29d0b1485e4b6d4bae0719ab521fb3048be238.400x0.none.jpg"><br>しほらしき名や小松吹萩すゝき
+<br>
+〔「小松」という可愛らしい名前のこの地に、萩やススキをゆらして秋の風が吹いている。〕
+<br>
+（金沢　1689年7月26日)]]></description>
+			<LookAt>
+				<longitude>136.4489097418863</longitude>
+				<latitude>36.39528838817186</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004052283256962092</heading>
+				<tilt>0</tilt>
+				<range>999.8818430387667</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shiorasiki0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.4489097418863,36.39528838817186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>38.金沢</name>
+			<description><![CDATA[<img src="http://www.takumise.com/basyou.kanazawa.files/image004.jpg"><br>塚も動け我泣声は秋の風
+<br>
+〔一笑よ、君の塚（墓）を目の前にしているが、生前の君を思って大声で泣いている。あたりを吹き抜ける秋風のように激しくわびしい涙なのだ。塚よ、私の呼びかけに答えてくれ。〕
+<br><br>
+秋涼し手毎にむけや瓜茄子
+<br>
+〔瓜や茄子という秋野菜でもてなしをうけた。いかにも秋の涼しさがあふれる。みなさん、それぞれ瓜や茄子をむこうじゃないですか。その手先にも秋の涼しさを感じてください。〕
+<br><br>
+あかあかと日は難面もあきの風
+<br>
+〔もう秋だというのに太陽の光はそんなこと関係ないふうにあかあかと照らしている。しかし風はもう秋の涼しさを帯びている。 〕
+
+
+（金沢　1689年7月15日～24日)]]></description>
+			<LookAt>
+				<longitude>136.6562051026086</longitude>
+				<latitude>36.5613254030354</latitude>
+				<altitude>0</altitude>
+				<heading>1.553859989629001e-009</heading>
+				<tilt>0</tilt>
+				<range>62860.3861371249</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_akisuzusi0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.6562051026086,36.56132540303539,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>37.那古浦</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/large/93776137.jpg"><br>わせの香や分入右は有磯海
+<br>
+〔北陸の豊かな早稲の香りに包まれて加賀の国に入っていくと、右側には歌枕として知られる有磯海が広がっている。〕
+<br>
+（那古浦　1689年7月13日)]]></description>
+			<LookAt>
+				<longitude>137.4079033842702</longitude>
+				<latitude>36.77831105927495</latitude>
+				<altitude>0</altitude>
+				<heading>0.03006810626588495</heading>
+				<tilt>10.15474302094075</tilt>
+				<range>12289.44719364119</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wasenoka0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>137.4079033842702,36.77831105927495,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>36.市振の宿</name>
+			<description><![CDATA[<img src="http://utau.cocolog-nifty.com/photos/uncategorized/2012/12/20/photo_3.jpg"><br>一家に遊女もねたり萩と月
+<br>
+〔みすぼらしい僧形の自分と同じ宿に、はなやかな遊女が偶然居合わせた。その宿にわびしく咲く萩を、こうこうと月が照らしている。なんだか自分が萩で遊女が月に思えてくる。〕
+<br>
+（市振の宿　1689年7月10日)]]></description>
+			<LookAt>
+				<longitude>137.491418675455</longitude>
+				<latitude>36.90148783942526</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002822292131549672</heading>
+				<tilt>4.917872987370056</tilt>
+				<range>31721.08059426562</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_itihuri0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>137.6391567064476,36.97786773745732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>35.国市振の関</name>
+			<description><![CDATA[<img src="http://1.bp.blogspot.com/-rqAqsz3TTWE/VZ81WPhakYI/AAAAAAABhxM/ZLbBnBHI9CI/s1600/IMG_0667%2B-%2B%25E3%2582%25B3%25E3%2583%2594%25E3%2583%25BC.JPG"><be>文月や六日も常の夜には似ず<br>
+
+〔七夕というものは、その前日の六日の夜でさえなんとなくワクワクして特別な夜に感じるよ。〕
+<br><br>
+荒海や佐渡によこたふ天河
+<br>
+〔新潟の荒く波立った海の向こうに佐渡島が見える。その上に天の川がかかっている雄大な景色だ。〕
+<br>
+（越中、国市振の関　1689年7月7日)]]></description>
+			<LookAt>
+				<longitude>137.6466849463531</longitude>
+				<latitude>36.97840131342085</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001401501555346134</heading>
+				<tilt>40.3232345369483</tilt>
+				<range>623.1158509605199</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_humituki0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>137.6439544413594,36.97974217048498,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>34.熊野権現</name>
+			<description><![CDATA[<img src="http://3.bp.blogspot.com/-n_YgxRj2jX8/VZZEWrTO8AI/AAAAAAABhXI/jqqWcjoqJfM/s1600/IMG_0335%2B-%2B%25E3%2582%25B3%25E3%2583%2594%25E3%2583%25BC.JPG"><br>
+象潟や料理何くふ神祭　【曾良】
+<br>
+〔熊野権現のお祭りにでくわす。海辺の象潟であるのに、熊野信仰によって魚を食べるのを禁じられ、何を食べるのだろうか。〕
+<br>
+<br>
+波こえぬ契ありてやみさごの巣
+<br>
+〔岩場の、いかにも波が飛びかかってきそうな危うい位置にみさごの巣がある。古歌に「末の松山波こさじとは」とあるが、強い絆で結ばれたみさごの夫婦なんだろう。〕
+<br>
+（湯殿山神社　1689年6月16日)]]></description>
+			<LookAt>
+				<longitude>139.8983584756543</longitude>
+				<latitude>39.21384820070834</latitude>
+				<altitude>0</altitude>
+				<heading>0.04004234558665375</heading>
+				<tilt>25.32240769640713</tilt>
+				<range>497.6736608160672</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_jinja0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8977881996655,39.21338349504207,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>33.汐越</name>
+			<description><![CDATA[<img src="http://2.bp.blogspot.com/-mAyotPjBCwk/VZZDI44IN4I/AAAAAAABhUw/p5RlTl717so/s1600/IMG_0307%2B-%2B%25E3%2582%25B3%25E3%2583%2594%25E3%2583%25BC.JPG"><br>汐越や鶴はぎぬれて海涼し<br>
+
+〔汐越の浅瀬に鶴が舞い降りた。その脛が海の水に濡れて、いかにも涼しげだ。衣が短くすねが長く見えているのを「鶴はぎ」と言うが、まさに鶴はぎだなあと感心した。〕
+<br>
+（湯殿山神社　1689年6月16日)]]></description>
+			<LookAt>
+				<longitude>139.8983584756543</longitude>
+				<latitude>39.21384820070834</latitude>
+				<altitude>0</altitude>
+				<heading>0.04004234558665375</heading>
+				<tilt>25.32240769640713</tilt>
+				<range>497.6736608160672</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_siokoe0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8968548220169,39.21485877805692,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>32.干満珠寺</name>
+			<description><![CDATA[<img src="http://4.bp.blogspot.com/-AUHRw59Bq-k/VZYkIFg4CLI/AAAAAAABhP4/fQ7YDX0Z4dI/s1600/IMG_0284%2B-%2B%25E3%2582%25B3%25E3%2583%2594%25E3%2583%25BC.JPG"><br>象潟や雨に西施がねぶの花
+<br>
+〔象潟の海辺に合歓の花が雨にしおたれているさまは、伝承にある中国の美女、西施がしっとりうつむいているさまを想像させることよ。〕
+<br>
+（象潟、干満珠寺　1689年6月16日)]]></description>
+			<LookAt>
+				<longitude>139.9032100003409</longitude>
+				<latitude>39.2156239998687</latitude>
+				<altitude>0</altitude>
+				<heading>2.155430102081011e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000009149327</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_naniwagata0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.9032161805913,39.2155761142807,13.53806148758323</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>31.酒田港</name>
+			<description><![CDATA[<img src="http://www.asahiryoko.com/wp-content/uploads/2016/11/s_IMG_4706-e1479357361557.jpg"><br>
+暑き日を海にいれたり最上川
+<br>
+〔最大の大河が滔々と海に流れこむさまは、まことに涼感にあふれて、この川が、暑かった今日一日を海に流し入れたかのようだ。はるか沖合を見ると、今まさに真赤な夕日が波間に沈もうとしている。 〕
+<br>
+（湯殿山神社　1689年6月15日)]]></description>
+			<LookAt>
+				<longitude>139.8212578132001</longitude>
+				<latitude>38.91980717393998</latitude>
+				<altitude>0</altitude>
+				<heading>0.005753232849787821</heading>
+				<tilt>7.309532726935247</tilt>
+				<range>6349.253358367916</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_atukihi0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8123240348839,38.92772561420956,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>30.不玉宅址</name>
+			<description><![CDATA[<img src="http://futennochun.cocolog-nifty.com/photos/uncategorized/2012/10/07/2012sakata0052.jpg"><br>
+あつみ山や　吹浦かけて　夕すゞみ
+<br>
+〔おりからの暑さに縁のある名のあつみ山が彼方に見え、頭をめぐらせば暑気を吹き払うという名の吹浦が見渡されるが、そこへかけての眺望を見渡しながらの夕涼みをするのは、まことに気持ちのよいことである。〕
+<br>
+（酒田、不玉宅址　1689年6月13日)]]></description>
+			<LookAt>
+				<longitude>139.8373098807163</longitude>
+				<latitude>38.91480399468946</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004717997136254294</heading>
+				<tilt>20.82336899601171</tilt>
+				<range>738.9931025070824</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_atumiyama0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8360069740611,38.9146038362157,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>29.湯殿山の霊域</name>
+			<description><![CDATA[<img src="http://www.dewatabi.com/syounai/dawa/yudonosan/02.JPG"><br>
+語られぬ湯殿にぬらす袂かな
+<br>
+〔いにしえより恋の山と聞こえた湯殿の里に分け入れば、語らず聞かずの幽谷の奥に尊き神秘を拝し、袂を濡らしたことであるよ。〕
+<br>
+湯殿山銭ふむ道の泪かな　【曾良】
+<br>
+〔湯殿山の霊域では、落ちたものを拾い上げることが禁じられている。こうした訳からだろうか、参道は、お賽銭を散り敷いたような有様であるよ。これを踏みつつお参りに上がると、かたじけない思いで涙がこぼれるのである。〕
+<br>
+（湯殿山神社　1689年6月7日)]]></description>
+			<LookAt>
+				<longitude>139.9861007957092</longitude>
+				<latitude>38.54155389764394</latitude>
+				<altitude>0</altitude>
+				<heading>-2.860462538765782e-006</heading>
+				<tilt>0</tilt>
+				<range>1007.585459931999</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_yudennsann0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.9861564868256,38.54146677620753,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>28.月山権現</name>
+			<description><![CDATA[<img src="http://www.geocities.jp/enshin633/gasan02.jpg"><br>雲の峯幾つ崩て月の山
+<br>
+
+〔昼間の陽射しの中で、猛々しく起立していた雲の峰はいつしか崩れ、今は、薄明かりに照らされた月の山が嫋(たお)やかに横たえているばかりであるよ。〕
+<br>
+（月山　1689年6月6日)]]></description>
+			<LookAt>
+				<longitude>140.0268709832712</longitude>
+				<latitude>38.54867549648441</latitude>
+				<altitude>0</altitude>
+				<heading>-0.06685716408786799</heading>
+				<tilt>59.90420738369632</tilt>
+				<range>203.4582249335266</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_tukiyama0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.0269787499917,38.54870368679367,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>27.羽黒権現</name>
+			<description><![CDATA[<img src="http://kumiko-phytoncide.c.blog.so-net.ne.jp/_images/blog/_15a/kumiko-phytoncide/P6E7BEBDE9BB92E5B1B1E4BA94E9878DE5A194.jpg?c=a0"><br>涼しさやほの三か月の羽黒山
+<br>
+〔日の落ちた羽黒山に佇み、西の空を眺めれば、はるかな山のあたりに三日月が出ているよ。たちこめる山気の中に見る月は、神々しくさえ感じられることである。〕
+<br>
+（羽黒山　1689年6月5日)]]></description>
+			<LookAt>
+				<longitude>139.9826180697449</longitude>
+				<latitude>38.70234700472122</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0003539385555250079</heading>
+				<tilt>2.125060937032886</tilt>
+				<range>1003.305312452725</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_haguro0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.9829471130062,38.70233765290197,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>26.本坊宝前院若王寺</name>
+			<description><![CDATA[<img src="http://tencoo.fc2web.com/jinja/dewasan01w.jpg"><br>有難や雪をかほらす南谷
+<br>
+〔この霊山の谷あいから、雪の香の南風が吹き寄せています。旅に疲労した我が身にとっては、この上なく尊く有難いことです。〕
+<br>
+（羽黒山、本坊宝前院若王寺　1689年6月4日)]]></description>
+			<LookAt>
+				<longitude>139.9821991804827</longitude>
+				<latitude>38.70235457008985</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004233654251549551</heading>
+				<tilt>52.00814268760879</tilt>
+				<range>279.7512927430117</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arigataya0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.9818928525298,38.70254000715881,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>25.清川</name>
+			<description><![CDATA[<img src="http://ww6.tiki.ne.jp/~nieda/iwagami.jpg"><br>五月雨をあつめて早し最上川<br>
+
+数々の山川から五月雨を集めてきた最上川は、ここに至り、更に両岸の山から直接水を集めて満ち満ちて、滑るような勢いで流れていく。<br>　　
+
+（最上川河港、清川　1689年6月3日)]]></description>
+			<LookAt>
+				<longitude>140.022396546386</longitude>
+				<latitude>38.79053411671366</latitude>
+				<altitude>0</altitude>
+				<heading>-0.05779398197594932</heading>
+				<tilt>46.17926123224796</tilt>
+				<range>612.2280135723588</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_samidare0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.0207608518113,38.79022251670354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>24.立石山</name>
+			<description><![CDATA[<img src="http://neco-bomb.pussycat.jp/ana_ps2/img/38.jpg"><br>閑さや岩にしみ入蝉の声<br>
+
+〔なんと静かに思えることよ。その鳴き声しか聞こえず、かえって静けさがつのるように感じられる蝉の声は、まるで岩々にしみこんでいるかのようだ。 〕
+<br>
+（養泉寺、清風の家　1689年5月27日)]]></description>
+			<LookAt>
+				<longitude>140.4353601758267</longitude>
+				<latitude>38.31200152605477</latitude>
+				<altitude>0</altitude>
+				<heading>0.004386244670194831</heading>
+				<tilt>46.11011904710958</tilt>
+				<range>819.5200851391682</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_sizukesa0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.4348715379399,38.31181224503112,252.9957027485244</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>23.養泉寺</name>
+			<description><![CDATA[<img src="http://www.bashouan.com/YO_Photo/c04_2.jpg"><br>涼しさを我宿にしてねまる也
+<br>
+這出よかひやが下のひきの声
+<br>
+まゆはきを俤にして紅粉の花
+<br><br>
+〔旅先ながら、涼しい座敷でくつろいでいますので、まるで我が家にでも居るような心持で過ごしていますよ。〕
+<br>
+〔飼屋の下から聞こえるカエルの鳴き声を聞いていると、つい、万葉の歌に詠まれたあの蛙のことが思い出される。ヒキガエルよ、さあ、そこから這い出してこちらにやってこないか。〕
+<br>
+〔紅花を眺めながらの旅は、心まで華やぐものであるよ。こうした心地で紅花に目を遣ると、女性が化粧で使用するまゆはきが思い出されることだ。〕
+<br><br>
+蚕飼する人は古代のすがた哉　【曾良】
+<br>
+〔蚕飼いする人の、かいがいしく働く姿や仕草は、大昔から少しも変わっていないことだと、しみじみ思うことであるよ。〕
+<br>
+（養泉寺、清風の家　1689年5月18日～27日)]]></description>
+			<LookAt>
+				<longitude>140.4011150450691</longitude>
+				<latitude>38.60767860860887</latitude>
+				<altitude>6.088591500028799</altitude>
+				<heading>-0.03118548980404213</heading>
+				<tilt>28.67135325928879</tilt>
+				<range>242.0036301972808</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_suzusisa0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.4003918930175,38.60787204353009,100.5067181471512</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>22.封人の家</name>
+			<description><![CDATA[<img src="http://media-cdn.tripadvisor.com/media/photo-s/07/15/40/3d/caption.jpg"><br>蚤虱馬の尿する枕もと
+<br>
+蚤や虱に悩まされる旅夜ではあるが、人と住まいを共にする習いの中、馬が枕もとで小便をするというのも心安く趣があるものだ。
+<br>
+（堺田、封人（国境の番人）の家　1689年5月15日)]]></description>
+			<LookAt>
+				<longitude>140.6165740998235</longitude>
+				<latitude>38.73756659985282</latitude>
+				<altitude>0</altitude>
+				<heading>-1.103779696655099e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.00000658528</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_kaiko0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.6166174401973,38.73743137351534,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>21.経堂・光堂</name>
+			<description><![CDATA[<img src="http://www.anta.or.jp/midokoro/20111112/images/img_06.jpg"><br>五月雨の降のこしてや光堂
+<br>
+〔あたりの建物が、雨風で朽ちていく中で、光堂だけが昔のままに輝いている。まるで、光堂にだけは、五月雨も降り残しているようなことではないか。〕
+<br>
+（平泉、金色堂　1689年5月13日)]]></description>
+			<LookAt>
+				<longitude>141.1004925705766</longitude>
+				<latitude>39.00133634016104</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0005967963641041435</heading>
+				<tilt>0.02359129655640959</tilt>
+				<range>1031.387296435556</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_hikaridou0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>141.0998520310826,39.00138559117569,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20.平泉</name>
+			<description><![CDATA[<img src="http://www.nobscafe.net/data/hiraizumi/hiraizumi.jpg"><br>夏草や兵どもが夢の跡
+<br>
+〔人気のないところに、今はただ夏草だけが生い茂るばかりだが、ここは、かつて義経主従や藤原一族の者たちが功名・栄華を夢見たところである。知るや知らずやこの夏草を眺めていると、すべてが一炊の夢と消えた哀れさに心が誘われる。〕
+<br>
+卯の花に兼房みゆる白毛かな　【曾良】
+<br>
+〔夏草に混じって咲いている白い卯の花を見ていると、兼房が、白髪をふり乱して敵に向かう姿が浮かんでくることよ。〕
+<br>
+（平泉　1689年5月13日)]]></description>
+			<LookAt>
+				<longitude>141.1136541043471</longitude>
+				<latitude>38.98684512318911</latitude>
+				<altitude>0</altitude>
+				<heading>0.0006589842649971114</heading>
+				<tilt>30.00094452215019</tilt>
+				<range>210.2337217371699</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_natukusaya0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>141.1138911460865,38.98662186628783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19.久之助の旅宿</name>
+			<description><![CDATA[<img src="http://www.ubudo.jp/kanko/images/kanko_photo_godaido.jpg"><br>松島や鶴に身をかれほとゝぎす　【曾良】
+<br>
+〔これほどまでに壮大で感嘆させる松島なのだから、松島には鶴が一番似つかわしい。そこで鳴いているほととぎすよ、いっそのこと鶴の姿になって飛んでみてはどうだ。〕
+<br>
+（雄島を見た後、松島の宿に戻って　1689年5月9日)]]></description>
+			<LookAt>
+				<longitude>141.060440417827</longitude>
+				<latitude>38.37182880152456</latitude>
+				<altitude>0</altitude>
+				<heading>0.0003876465617365776</heading>
+				<tilt>17.13849995135328</tilt>
+				<range>364.0329467463129</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_matsusima0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>141.0599722854309,38.37186558395327,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>18.大崎庄左衛門の旅籠屋</name>
+			<description><![CDATA[<img src="http://www.bashouan.com/YTG_Photo/b09.jpg"><br>あやめ草足に結ん草鞋の緒
+
+<br>
+〔ころはちょうど端午の節句。軒端には邪気ばらいの菖蒲がさしてある。わたしも旅の無事を祈って(餞別にもらった紺染の緒のように)草履にあやめ草を結び、出立することにしよう。〕
+<br>
+（国分町、大崎庄左衛門の旅籠屋　1689年5月5日～5月7日)]]></description>
+			<LookAt>
+				<longitude>140.8686258509766</longitude>
+				<latitude>38.26410204154483</latitude>
+				<altitude>0</altitude>
+				<heading>0.001829172620259014</heading>
+				<tilt>9.706253483263373</tilt>
+				<range>874.3866949076345</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ayame0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.8681244765324,38.2638253442282,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>17.武隈の松</name>
+			<description><![CDATA[<img src="http://www.bashouan.com/YIW_photo/n15.jpg"><br>桜より松は二木を三月越し
+<br>
+
+〔桜よりも、私を待っていてくれたのは二木の松で、三月越しにようやく見ることができましたよ。〕
+<br>
+（岩沼の宿、武隈の松　1689年5月4日)]]></description>
+			<LookAt>
+				<longitude>140.8646584730824</longitude>
+				<latitude>38.10445397663219</latitude>
+				<altitude>0</altitude>
+				<heading>0.00167767182563031</heading>
+				<tilt>0</tilt>
+				<range>1098.193812781279</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_sakura0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.8628336812323,38.1067536070297,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16.白石宿</name>
+			<description><![CDATA[<img src="http://2.bp.blogspot.com/-OetorEzazCw/VEnAiMHepoI/AAAAAAABb9A/r6vm9m5859I/s1600/IMG_6609%2B-%2B%E3%82%B3%E3%83%94%E3%83%BC.JPG"><br>笠嶋はいづこさ月のぬかり道
+
+<br>
+〔実方ゆかりの笠島はどの辺りなのだろうか。五月の雨でぬかるんだこの道では、尋ねていくこともできない。〕
+<br>
+（藤原実方の墓に行きたくて行けなかった　1689年5月3日)]]></description>
+			<LookAt>
+				<longitude>140.6272375999226</longitude>
+				<latitude>38.00490280009069</latitude>
+				<altitude>0</altitude>
+				<heading>-4.761608413619031e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000030942417</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_kasa0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.6272559708411,38.00471944792162,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1.深川</name>
+			<description>松尾芭蕉の家がもともとあった場所</description>
+			<LookAt>
+				<longitude>139.7970258996099</longitude>
+				<latitude>35.67671689985603</latitude>
+				<altitude>0</altitude>
+				<heading>-2.274700902635893e-010</heading>
+				<tilt>0</tilt>
+				<range>994.2561670143259</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_021</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7970511670539,35.67658690806869,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2.杉風別墅</name>
+			<description><![CDATA[<img src="http://hosomichi.roudokus.com/images/Saito.jpg">
+<br>
+
+草の戸も住替る代ぞひなの家<br>
+
+〔戸口が草で覆われたこのみすぼらしい深川の宿も、私にかわって新しい住人が住み、綺麗な雛人形が飾られるようなはなやかな家になるのだろう。〕<br>
+
+（杉山杉風の別墅採荼庵　1689年2月末）]]></description>
+			<LookAt>
+				<longitude>139.791549218196</longitude>
+				<latitude>35.68655086522326</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0004464640153490511</heading>
+				<tilt>0</tilt>
+				<range>994.0182201297947</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_f05</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7908024053774,35.68713133688865,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3.千住大橋</name>
+			<description><![CDATA[<img src="http://s-ohtsuki.sakura.ne.jp/sansakutenbyou/event/Sumidagawa-1%20KitaSenju-MikawashimaH170507/Sumidagawa-1%20KitaSenju-MikawashimaH170507%20010.jpg"><br>
+
+行春や鳥啼魚の目は泪<br>
+
+〔春が過ぎ去るのを惜しんで鳥も魚も目に涙を浮かべているようだ。〕<br>
+
+（千住大橋　1689年3月27日）]]></description>
+			<LookAt>
+				<longitude>139.79845450991</longitude>
+				<latitude>35.73906449014224</latitude>
+				<altitude>0</altitude>
+				<heading>0.000626987074825018</heading>
+				<tilt>0</tilt>
+				<range>671.5948926734056</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_gyousui0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7975691247926,35.73936732403068,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4.日光</name>
+			<description><![CDATA[<img src="http://www.nikko-kankou.org/db_img/cl_img/2/main.jpg"><br>あらたうと青葉若葉の日の光<br>
+
+〔青葉や若葉に差し込む日の光は、この日光山が国の八方まで放つご威光そのもので、実に尊いものであるよ。〕
+<br>
+（日光山 1689年4月1日）]]></description>
+			<LookAt>
+				<longitude>139.6007559451159</longitude>
+				<latitude>36.75439631280399</latitude>
+				<altitude>0</altitude>
+				<heading>-0.000231719733674054</heading>
+				<tilt>0</tilt>
+				<range>1518.955489956193</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_aratau0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6007559451159,36.75439631280398,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5.裏見の滝</name>
+			<description><![CDATA[<img src="http://outdoor.geocities.jp/gmrbg004/IMG_0712.jpg"><br>暫時は瀧に籠るや夏の初
+
+<br>〔轟く水音のみを聞いて滝裏にしばらくこもれば、雑念が払われ、まるで夏行の初めのような境地となるのである。〕
+
+<br>(日光裏見滝 1689年4月2日)]]></description>
+			<LookAt>
+				<longitude>139.5564069001117</longitude>
+				<latitude>36.75681339921151</latitude>
+				<altitude>0</altitude>
+				<heading>6.683935663095581e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000064797094</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_zenji0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5564154121382,36.75664291762314,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6.玉生</name>
+			<description><![CDATA[<img src="http://cdn-ak.f.st-hatena.com/images/fotolife/k/khannic/20110914/20110914085027.jpg"><br>かさねとは八重撫子の名成るべし　【曾良】<br>
+
+〔このような片田舎で、思いもよらず、なかなか上品で美しい響きの「かさね」という名の小さい娘に出会った。花なら、さしずめ、花びらが重なって美しい八重撫子の名と言ったところであるよ。〕
+<br>
+(日光→那須の知人の家へ行く途中に馬を借りた民家 1689年4月2日)]]></description>
+			<LookAt>
+				<longitude>139.8506257791247</longitude>
+				<latitude>36.77751582815501</latitude>
+				<altitude>0</altitude>
+				<heading>7.407208208437652e-005</heading>
+				<tilt>28.27553611701825</tilt>
+				<range>380.9589640029208</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_kasane0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8503564674839,36.77719755129574,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7.修験光明寺</name>
+			<description><![CDATA[<img src="https://upload.wikimedia.org/wikipedia/ja/thumb/e/e2/Koumyouji5626.JPG/280px-Koumyouji5626.JPG"><br>夏山に足駄を拝む首途哉
+
+<br>〔みちのくへの長途の旅を前にして、北方はるかに連なる奥羽の山並をうかがいながら、役行者と高足駄に旅の無事と健脚を祈って手を合わせたのである。〕
+
+<br>(黒羽、修験光明寺 桃雪宅と余瀬の翠桃宅1689年4月3日～4月16日)]]></description>
+			<LookAt>
+				<longitude>140.1018953997919</longitude>
+				<latitude>36.86833289981347</latitude>
+				<altitude>0</altitude>
+				<heading>-1.248335906927616e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000016223552</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_natuyama0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.1019617607737,36.8682267193341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8.仏頂和尚の山居跡</name>
+			<description><![CDATA[<img src="http://www.bashouan.com/YNs_Photo/k_u01_4.jpg"><br>木啄も庵はやぶらず夏木立
+
+<br>〔さすがのきつつきも、仏頂和尚の結んだ山居だけはやぶろうとはしないようだ。こうして、うっそうとした木々の中に和尚が修行した庵を拝見することができたのはありがたいことだ〕
+
+<br>(雲厳寺、仏頂和尚の山居跡　1689年4月5日)]]></description>
+			<LookAt>
+				<longitude>140.2098355122609</longitude>
+				<latitude>36.85294294901171</latitude>
+				<altitude>0</altitude>
+				<heading>7.965319928123843e-005</heading>
+				<tilt>10.13345369053818</tilt>
+				<range>796.780453002423</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_kitutuki0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.2098114755709,36.85289841578316,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9.殺生石</name>
+			<description><![CDATA[<img src="http://www.tabiru.info/photo/090328/020.jpg"><br>野を横に馬牽むけよほとゝぎす
+
+<br>〔どこやらでほととぎすが鳴いているよ。さあ、聞こえる方に馬を差し向けて、いっしょに聞こうではないか。〕
+
+<br>(殺生石、馬で送ってくれた館代に1689年4月19日)]]></description>
+			<LookAt>
+				<longitude>139.9989162004765</longitude>
+				<latitude>37.10162499860468</latitude>
+				<altitude>0</altitude>
+				<heading>2.874553515559912e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.290941493077</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_sessyou0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.9989222529107,37.1015187332271,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10.遊行柳</name>
+			<description><![CDATA[<img src="http://www.bashouan.com/YNs_Photo/n_y01.jpg"><br>田一枚植て立去る柳かな
+
+<br>〔遥かと思っていた柳が目の前にあり、その木陰でしばらく安らかにしていると、いつのまにか、田植えが一枚分終わって早乙女たちの声が消え、ぽつんととり残されてしまった。それでは、私もここを立ち去って旅を続けるとしよう。
+〕
+<br>
+(遊>行柳、西行が歌を詠んだ場所　1689年4月20日)]]></description>
+			<LookAt>
+				<longitude>140.1654291813877</longitude>
+				<latitude>36.99497059756462</latitude>
+				<altitude>0</altitude>
+				<heading>9.675171007699662e-009</heading>
+				<tilt>0</tilt>
+				<range>1029.064777723274</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_taitimai0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.1654354003185,36.99487126624369,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11.白河の関跡</name>
+			<description><![CDATA[<img src="http://www.bashouan.com/YS_Photo/a01.jpg"><br>卯の花をかざしに関の晴着かな　【曾良】<br>
+
+〔この関を通るとき、古人は冠を正し、衣装を改めたというが、私にはこのような用意もないので、せめて卯の花を髪にかざして関を通ることにしよう。〕<br>
+
+(白河の関跡～関山　1689年4月21日)]]></description>
+			<LookAt>
+				<longitude>140.2284248001332</longitude>
+				<latitude>37.04711580028614</latitude>
+				<altitude>0</altitude>
+				<heading>8.022313073055428e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000037988732</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_unohana0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.2284550122774,37.04702899185875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12.相楽等躬宅</name>
+			<description><![CDATA[<img src="http://www.bashouan.com/YG_Photo/t00.jpg"><br>風流の初やおくの田植うた<br>
+
+〔白河の関を越えると、歌いながら田植えをするという、実に趣きのある光景が目にとまった。これは、旅に出て最初の風流な味わいであることよ。〕<br>
+
+(須賀川本町、相楽等躬宅　1689年4月22日)]]></description>
+			<LookAt>
+				<longitude>140.3745422384374</longitude>
+				<latitude>37.2881455770795</latitude>
+				<altitude>0</altitude>
+				<heading>-4.391614965562178e-005</heading>
+				<tilt>6.33172909814256</tilt>
+				<range>8690.038077137302</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_huuryuya0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.3749098146365,37.28570742126204,270.138450749754</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13.相楽等躬宅　（簗井弥三郎住居）</name>
+			<description><![CDATA[<img src="http://www.bashouan.com/YG_Photo/i01.jpg"><br>世の人の見付ぬ花や軒の栗
+<br>
+〔世間を避けるようにひっそりと暮らしている僧がおり、その住まいの軒先には、栗の花が人目につかず咲いている。いかにも奥ゆかしいことだ。〕
+<br>
+(相楽等躬宅の一隅、簗井弥三郎の住居　1689年4月28日)]]></description>
+			<LookAt>
+				<longitude>140.3758955642438</longitude>
+				<latitude>37.28670266112562</latitude>
+				<altitude>0</altitude>
+				<heading>0.001098585462769509</heading>
+				<tilt>26.94958104140317</tilt>
+				<range>488.0737785786138</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_yonohito0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.3748636182855,37.28645091651757,265.6950697754773</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14.文知摺石</name>
+			<description><![CDATA[<img src="http://www.bashouan.com/YFk_Photo/f06.jpg"><br>早苗とる手もとや昔しのぶ摺
+<br>
+〔早苗をとっている早乙女たちの手元を見ていると、むかし、しのぶ摺りをした手つきもおなじようだったのかと偲ばれることだ。〕
+<br>
+（文知摺石　1689年5月2日)]]></description>
+			<LookAt>
+				<longitude>140.514276191621</longitude>
+				<latitude>37.7707084194024</latitude>
+				<altitude>0</altitude>
+				<heading>4.377429430877363e-005</heading>
+				<tilt>37.0768171610664</tilt>
+				<range>19.78542774503042</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_sanae0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.5142635610013,37.77071054256238,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15.佐藤庄司の旧跡</name>
+			<description><![CDATA[<img src="http://www.bashouan.com/YFk_Photo/b02.jpg"><br>笈も太刀も五月にかざれ帋幟
+<br>
+〔端午の節句の５月なのだから、弁慶の笈も義経の太刀も、帋幟といっしょに飾って祝ってもらいたいものだ。〕
+<br>
+（瑠璃光山医王寺　1689年5月1日)]]></description>
+			<LookAt>
+				<longitude>140.4411943197128</longitude>
+				<latitude>37.82288235714159</latitude>
+				<altitude>0</altitude>
+				<heading>0.000251911046553709</heading>
+				<tilt>0</tilt>
+				<range>1092.637782502479</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_sao0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.4411077176581,37.8225455867514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>深川～杉原杉風家</name>
+			<LookAt>
+				<gx:TimeStamp><when>2000</when>
+</gx:TimeStamp>
+				<longitude>139.7965292510817</longitude>
+				<latitude>35.67917777777777</latitude>
+				<altitude>0</altitude>
+				<heading>0.2016987343504095</heading>
+				<tilt>31.74533156632494</tilt>
+				<range>1463.947504480797</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>
+					139.7975022647872,35.67589655955204,83 139.7900521504658,35.67861933103903,83 139.7876085179176,35.67957450076528,83 139.7910766090154,35.68664538835581,83
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>2</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					139.7906446998612,35.68478369873517,0 139.7974881417527,35.73937430375606,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>～日光</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					139.7975106461421,35.73928168418637,0 139.8861765480522,35.78552377797585,0 139.8839105866525,35.89181885731535,0 139.7868519122056,36.02021198019604,0 139.7232044167962,36.1307890957556,0 139.8330025051845,36.24576721327027,0 139.7447216296535,36.50873415147431,0 139.7089034327272,36.69468635495477,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>～裏見の滝</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					139.7090712062451,36.6962175022756,0 139.6984534057103,36.72034413871799,0 139.6024278095703,36.75136964358445,0 139.5624053775725,36.74977552544506,0 139.5539186490327,36.75748502994279,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>～12</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					139.5569512063443,36.75663564800575,0 139.6867734571836,36.74155729376312,0 139.7287902176017,36.76401650048337,0 139.8122594807858,36.75923184464129,0 139.8512197795905,36.77290701923759,0 139.8977651376678,36.73639784112072,0 139.9371718245647,36.72645167814557,0 139.9618254945746,36.73722283219425,0 139.9388864420137,36.80188173900159,0 139.9490721247843,36.83781058678955,0 139.9956763178442,36.84736809922878,0 140.0204973073905,36.88213608579369,0 140.1044380720826,36.86592689892071,0 140.1543271982301,36.86621409195875,0 140.2125773940122,36.84993460684726,0 140.0451875604714,36.95912153528466,0 139.9975232734805,37.10184207069776,0 140.1180148488126,37.03124778703275,0 140.1141579629875,37.0004939763018,0 140.1318175150833,36.95771474286384,0 140.1410778502463,36.94355036009499,0 140.1599826199803,36.97487611089296,0 140.1665775965549,36.99545271529681,0 140.1790525110843,37.08957244234348,0 140.2116030804452,37.12652159635164,0 140.2336635016121,37.10057741983522,0 140.2862329208094,37.07103479314026,0 140.2482328073202,37.06572408889756,0 140.2334904091932,37.0587323049755,0 140.2275400172792,37.04561371788387,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>～19</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					140.2279340190069,37.04672432298893,0 140.3586715933091,37.06526264200488,0 140.3614363144141,37.06574707043207,0 140.3641510659425,37.06675558479393,0 140.3682217049814,37.06720005963008,0 140.3709514582009,37.06821132590061,0 140.3743677953278,37.06867530774591,0 140.3784381027203,37.06858503834413,0 140.3811679742425,37.06906205240544,0 140.3852765790271,37.07058158397922,0 140.3873212450735,37.07107229146666,0 140.3914455344729,37.07312888602065,0 140.3935076834309,37.07415710615534,0 140.3962457226955,37.07516959883503,0 140.3990010743524,37.07671954531403,0 140.4031571324379,37.07931637953453,0 140.405955694617,37.08140996443537,0 140.4073702974905,37.08299395768987,0 140.4087860772551,37.08457830127785,0 140.4122896378127,37.08773035498729,0 140.4137656371698,37.09092985143241,0 140.4145482454862,37.09360774972187,0 140.4145615456124,37.09467567733299,0 140.3962927903598,37.12329428705462,0 140.3521939965566,37.1872068242723,0 140.3791338580627,37.28252759711167,0 140.3746476112138,37.28591000994729,0 140.3583180958867,37.38001725742033,0 140.3586255358734,37.38839981305272,0 140.3587793026439,37.39259133168035,0 140.3589715014323,37.39783105231972,0 140.3591628205501,37.40307221667138,0 140.3579973332195,37.40729588694607,0 140.3583416213415,37.4167317690511,0 140.3586478193722,37.42512039797332,0 140.3589157900725,37.43246138392484,0 140.3605807712908,37.44186934625758,0 140.3620907499272,37.44708708868578,0 140.3648784650947,37.45123606433323,0 140.3650667829874,37.45649214229133,0 140.3666139333246,37.46276956817145,0 140.368086164174,37.46694495443465,0 140.3696366929229,37.47321861871586,0 140.3710762774408,37.47632946753161,0 140.371195282533,37.47946885437592,0 140.3741126599871,37.48674177070953,0 140.3782679515562,37.4919097779772,0 140.3811806689034,37.4992097305865,0 140.3839784688217,37.50335739019649,0 140.3881377794858,37.50852853244939,0 140.4363193662871,37.57973885351801,0 140.440687317409,37.58539461660369,0 140.4449928720473,37.58940548687107,0 140.4492674679638,37.59259390550727,0 140.4546380936041,37.59739967616363,0 140.4557695058015,37.59984163809362,0 140.4600740871636,37.60385159711388,0 140.4623062615932,37.607913591325,0 140.464507053573,37.61115309140855,0 140.4667400758378,37.61521557459653,0 140.4668615645464,37.61850521385505,0 140.4701416104595,37.62254469050772,0 140.4724326614113,37.62825254983393,0 140.4735627940529,37.63069563143681,0 140.4757630857914,37.63393675288669,0 140.478055194677,37.63964787170671,0 140.479216912395,37.64291581210631,0 140.4804094224222,37.6470078830378,0 140.4816636712759,37.65274851492728,0 140.4817261802577,37.65439584288944,0 140.4819136759314,37.65933828921727,0 140.4831676594164,37.66508313347158,0 140.4832676839259,37.66755154244549,0 140.4833602870038,37.67002449836028,0 140.4824129909733,37.67252253274719,0 140.4815579978011,37.67749458440944,0 140.4806718510559,37.68164294422208,0 140.4807332726543,37.68329278061565,0 140.4788676702177,37.68911711779568,0 140.4779805511168,37.69326779796226,0 140.476083187259,37.69826897300312,0 140.4741241517876,37.70161972379542,0 140.4732336349751,37.70577512499794,0 140.4722707483639,37.71001548386955,0 140.4713509381472,37.7133470832929,0 140.4715120033257,37.71747216592843,0 140.4716408687392,37.72077210512523,0 140.4718019468897,37.72489688021702,0 140.4719302333294,37.7281973857101,0 140.4720856515841,37.73233039424083,0 140.4723032763744,37.73811755531764,0 140.4734732327453,37.74139696483153,0 140.4768592214981,37.74792802506036,0 140.4790812421319,37.7511675738448,0 140.482351042998,37.75437192177688,0 140.4877052197847,37.75752928735739,0 140.4909551864459,37.76078042214721,0 140.4942068354738,37.76403284333423,0 140.4964174223383,37.76730622242329,0 140.5006835614434,37.7697130038726,0 140.506029268868,37.7729216133344,0 140.5102434428477,37.77363666503471,0 140.5144257150221,37.77351920409969,0 140.5165480822228,37.77429266289599,0 140.4356576184261,37.82098030436683,0 140.514415939075,37.84153272126748,0 140.5220147621403,37.84252845563709,0 140.5311269656816,37.84348431625359,0 140.5418009296861,37.84559799080408,0 140.548036655568,37.8502202670478,0 140.5527615297042,37.85488095458989,0 140.5590939888623,37.86189110617148,0 140.5638679546821,37.86774548660697,0 140.5670351478978,37.87125034597151,0 140.5687851871866,37.87718137900266,0 140.5719993509543,37.8818810182226,0 140.5783047817004,37.88891408101443,0 140.5799552224667,37.89245732353516,0 140.5817822134069,37.90077711747241,0 140.5849936286531,37.90547031330074,0 140.5882850126132,37.91255079346683,0 140.5899366163238,37.91608818982552,0 140.5930568372432,37.91839488875502,0 140.5948256325508,37.92431439262093,0 140.5982096230617,37.93258396236473,0 140.6031580445444,37.94201395648766,0 140.6049261172797,37.94794354662342,0 140.608312765874,37.9562262118648,0 140.6084644927202,37.95980876967499,0 140.6101844033902,37.96454991009017,0 140.611904672298,37.96929222568987,0 140.6137232363218,37.97642388961683,0 140.6154925091261,37.98236258996425,0 140.6172625528221,37.98830285514185,0 140.6220728959598,37.99417390073614,0 140.6222241389559,37.99776116774039,0 140.6270273229257,38.00362717481006,0 140.6302037532191,38.00713178486917,0 140.6334780307175,38.01302511119354,0 140.635107082918,38.01654056800432,0 140.6383130651105,38.02122058211865,0 140.6445801543079,38.02699901100798,0 140.6509949764169,38.03520687497269,0 140.6573747163066,38.04108362889828,0 140.6636781461379,38.04574046260404,0 140.6683634545112,38.04919427206638,0 140.6775960479128,38.05367862213212,0 140.6854571426773,38.0571742595769,0 140.6933169998881,38.06066264107503,0 140.7010963822597,38.06523581895124,0 140.7103448548222,38.06857331948542,0 140.7196564573706,38.07311543625428,0 140.7289371321325,38.07647529286395,0 140.7366977896248,38.07987264944308,0 140.7443599033961,38.08087937289388,0 140.7536969340239,38.08543400782343,0 140.7567427439856,38.08535835635457,0 140.7675799296013,38.08869586699642,0 140.7784732310626,38.09322972796097,0 140.7877422111107,38.09540778020577,0 140.7954861392632,38.09762162274519,0 140.8032720555773,38.10102442938288,0 140.8109349468515,38.10202020849502,0 140.8171119841699,38.10424272379562,0 140.8231989532897,38.10524496621834,0 140.8292840325245,38.1062465743745,0 140.8384298242355,38.10717771322973,0 140.841478147135,38.10709937522012,0 140.8506379283203,38.10803825750209,0 140.8567666307712,38.10906527143344,0 140.8629753142707,38.11013604335231,0 140.8722062018689,38.10994272217666,0 140.8754600078027,38.11347798216234,0 140.8787738105326,38.11821446428946,0 140.8820890994808,38.12295238343447,0 140.883923876356,38.12892415006974,0 140.8843359375296,38.13733063803051,0 140.8846303721833,38.14333638532633,0 140.8848960424691,38.1481604271774,0 140.885127547733,38.15296400902295,0 140.8853590711732,38.15776806164409,0 140.8841190227761,38.16381212407907,0 140.8827630053043,38.16745409742995,0 140.8831678553349,38.17586381102294,0 140.881869205525,38.18070803897373,0 140.8820801974791,38.18549974948613,0 140.8824144828213,38.19270058317414,0 140.8825909168379,38.19630827679593,0 140.8828850573744,38.20232184386475,0 140.8831204144543,38.20713332120849,0 140.8834146994813,38.21314851856986,0 140.883768024519,38.22036799448999,0 140.8841743953383,38.22878725334337,0 140.8798832206796,38.23607809775806,0 140.8787400148902,38.24337003952451,0 140.8789678723454,38.24817938452699,0 140.8762370578122,38.25546051480215,0 140.8733919218961,38.26033664045484,0 140.8735624615962,38.26394424554325,0 140.8736761835011,38.26634943871326,0 141.0687423407901,38.36232284033903,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>～24</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					141.054733212531,38.35695569003685,0 141.0579300798265,38.36927490174882,0 141.0662868601154,38.3793713402188,0 141.0745498370055,38.38740034571321,0 141.0826231601903,38.39129715636327,0 141.0934217007052,38.39717651526733,0 141.1068498358945,38.40297558285727,0 141.1202795748432,38.40877376178166,0 141.1338034087036,38.41664412690381,0 141.1419788480962,38.42259832356196,0 141.1502606793624,38.4305973251137,0 141.1559098597355,38.43868604662355,0 141.1641880024815,38.44669736468845,0 141.1752928566132,38.45875261367451,0 141.1809440613117,38.46684191682435,0 141.189420402749,38.47897778684818,0 141.2003247393657,38.48691958881325,0 141.2088976831739,38.50112001639288,0 141.2200182025833,38.51315968738861,0 141.2229490771232,38.51925841530036,0 141.2341744800839,38.53335519612786,0 141.242657652912,38.54548495456286,0 141.2456746461547,38.55365813815673,0 141.2485915182503,38.55977070847392,0 141.2544254848337,38.57199300711068,0 141.2575641134025,38.58220269434118,0 141.2607611862192,38.59236579626637,0 141.2640071390331,38.60463224848903,0 141.2672541939324,38.61689842401987,0 141.2675633886101,38.62307023338716,0 141.2735449210735,38.63731556881577,0 141.2739580211818,38.64554458878278,0 141.2745719165195,38.65789153144331,0 141.2752803995225,38.67229994864083,0 141.2731491978057,38.68267244135676,0 141.2738583582979,38.69707852866981,0 141.2716257396341,38.70539128299301,0 141.2721333610355,38.71567975295433,0 141.2726411254514,38.72596780018471,0 141.267666599745,38.73230284756138,0 141.2655339696106,38.74267096547244,0 141.2635022713895,38.7550956653369,0 141.261305778835,38.76547710633013,0 141.259371330522,38.77995459159535,0 141.2569944202467,38.78413733244784,0 141.2497667505652,38.79877754364379,0 141.2475152350164,38.80708537303161,0 141.2401657037714,38.81966507235889,0 141.2380194342412,38.83002479802153,0 141.2304942922981,38.838486534324,0 141.2256054255796,38.84686737452371,0 141.2155534692662,38.85746181774511,0 141.2080394637542,38.86592093247112,0 141.1954442791189,38.87864799744769,0 141.1853942233802,38.88924176658787,0 141.1804255766106,38.89556836668226,0 141.1678437446522,38.90830155541801,0 141.1550499945346,38.91692188385871,0 141.1474302557513,38.92332759423596,0 141.1398977537841,38.93178464522011,0 141.1322532865486,38.93817857910041,0 141.1272517897571,38.94449406106921,0 141.122347077687,38.9528629493288,0 141.1174420970655,38.96123030285703,0 141.1097932717329,38.96761654251299,0 141.1049859295822,38.97803603485165,0 141.1000904258081,38.98640955628884,0 141.0951937925632,38.99478267039413,0 141.0930392799682,39.00513480572833,0 141.088140653365,39.01350747358213,0 141.0886318749784,39.02378553908827,0 141.0888470309994,39.02792288264539,0 141.0361684306797,39.06872220025723,0 141.0284254935993,39.06989422794516,0 141.0247211440555,39.07398164876335,0 141.0183806999235,39.07706565086728,0 141.0146383104336,39.08010950711451,0 141.009636911954,39.08436385445877,0 141.0058814703098,39.0875599561293,0 141.0021595548533,39.09183951683615,0 140.9984558116605,39.09595768566157,0 140.9947525828165,39.10007468642287,0 140.9897061381965,39.10321588947815,0 140.9833643508942,39.10638672338319,0 140.9782745638528,39.10851573868495,0 140.973227880355,39.11166737772588,0 140.9680839935156,39.11282064800206,0 140.9617242165677,39.11605476006666,0 140.9552821773682,39.11723988943809,0 140.9488417598998,39.11842043566553,0 140.9437720423162,39.1205086379308,0 140.9398935085071,39.12058577036342,0 140.9334310175069,39.12071615536323,0 140.9282633735734,39.1208201426056,0 140.9205158787405,39.12097564434797,0 140.9140632144221,39.12110475741858,0 140.9088608872902,39.12127738679762,0 140.9025243559173,39.12230620286292,0 140.8975423564706,39.12429377522602,0 140.8938998223121,39.12725581358727,0 140.8902452421801,39.13023887652189,0 140.8867073313206,39.13518858505196,0 140.8844077794199,39.13911256187028,0 140.8820316893775,39.14314851469543,0 140.8783307537385,39.14726987057394,0 140.8746064553434,39.15035845127975,0 140.8696958318644,39.15439731528683,0 140.8672334584364,39.15642736769379,0 140.8612688632522,39.15911587798871,0 140.8564525495903,39.15986456437848,0 140.8504386756586,39.1605552178355,0 140.8443621375915,39.16030609393745,0 140.8394884722254,39.16014247663872,0 140.8331132991597,39.16029586437795,0 140.8278585984924,39.1595559513323,0 140.8225986264335,39.15881504519343,0 140.8200491430105,39.15991338024913,0 140.7945609361252,39.14717288508901,0 140.7848731779518,39.13911316332572,0 140.7775517906063,39.13264069878736,0 140.7748202092927,39.12770752356411,0 140.770638292845,39.11890511509778,0 140.767550898203,39.11239050391188,0 140.7645951589374,39.10227964857029,0 140.7648195639771,39.09340762430542,0 140.7643888046639,39.08134848178593,0 140.7640817441435,39.07448518411143,0 140.7636979785798,39.06590564258421,0 140.7633142894487,39.05732557567699,0 140.7652522185805,39.04864743081989,0 140.7694714924159,39.03989007662808,0 140.7691274239691,39.03130107952102,0 140.7734845736837,39.02424777166192,0 140.7778366439226,39.01199468245947,0 140.7793285427674,39.00346347938182,0 140.7858954629588,38.99290347302956,0 140.7881127057784,38.98592016108674,0 140.7881754734086,38.97899390224444,0 140.7813443118387,38.97231250940348,0 140.7743705877954,38.96738363674589,0 140.7673388118266,38.96073638571832,0 140.7603578931283,38.95579947692591,0 140.7511501132237,38.95264208050099,0 140.7418805823129,38.94776406418943,0 140.7326029438825,38.9428803464137,0 140.7255165491573,38.93793492144185,0 140.7182674877704,38.93127538564375,0 140.7113240034813,38.92630425781739,0 140.7023690544724,38.92309502749193,0 140.695604556446,38.91983029437873,0 140.6887421169671,38.91484980488595,0 140.6796914623307,38.90992360620751,0 140.6684636731165,38.90677104518919,0 140.6577905363944,38.90359851738664,0 140.6491930911503,38.89866322745028,0 140.6386087688156,38.8972147153469,0 140.6321952594711,38.89394924618228,0 140.6199886957504,38.88909391811609,0 140.6082699551796,38.88422209029437,0 140.6016089650464,38.88095420296902,0 140.5926985864985,38.87602588930689,0 140.5858442063228,38.86932722635184,0 140.5790917726697,38.8643452942872,0 140.576419802369,38.85581719147757,0 140.5737431017273,38.84557379016456,0 140.570500009719,38.8369964793755,0 140.5686143266868,38.82827177920018,0 140.5702204996869,38.81958280221875,0 140.5747198182796,38.81433920774801,0 140.5767787398285,38.80570157600766,0 140.5812162189686,38.79874962905748,0 140.5832703396542,38.79012339275159,0 140.5876997085132,38.78318396740969,0 140.5875908617181,38.77975123086699,0 140.5919162922228,38.76939164723999,0 140.5958772916193,38.76408265656395,0 140.5993941322993,38.75526619781817,0 140.6009288120301,38.74824385007941,0 140.6030666233951,38.7481736454487,0 140.6143381780957,38.73422823879731,0 140.6135862984922,38.73424941496437,0 140.6089636447142,38.73258076295186,0 140.6059473378825,38.73265875901353,0 140.6036849240238,38.7327172045858,0 140.6013874148777,38.73217788951548,0 140.5983707953492,38.73225566693253,0 140.5923192944932,38.7323956128806,0 140.5878100116715,38.73252696405682,0 140.5848027145237,38.73261484083977,0 140.5795704608515,38.73280421334978,0 140.5758304774962,38.73350588251786,0 140.568968471447,38.73360062151967,0 140.5644115953564,38.7342323824903,0 140.5606228826033,38.73485243951183,0 140.5575817409701,38.73543165152553,0 140.5546755642138,38.73570211029173,0 140.5510001314252,38.7365441513253,0 140.5472326168578,38.73721319681962,0 140.5435068761769,38.73851809300601,0 140.5397826626264,38.7398400290834,0 140.5368013313288,38.74110627616589,0 140.533835733866,38.74293322328563,0 140.5323450874504,38.74356757006627,0 140.5293871862145,38.74543288886205,0 140.5271858239579,38.74727985194767,0 140.5219493756,38.74919448396201,0 140.5174692990184,38.75106009017414,0 140.5137247775608,38.75233844909263,0 140.5092436961037,38.75423848090375,0 140.5062559109857,38.7554996489493,0 140.5032445664663,38.75616809816104,0 140.4987154107943,38.75687432876136,0 140.494184070485,38.75758657483832,0 140.4919327773185,38.7582262989802,0 140.4881608130939,38.75891416019697,0 140.4843874232267,38.75960443052651,0 140.4805916498863,38.75969920553816,0 140.4753012800094,38.76042064762357,0 140.4730242841964,38.76047494762755,0 140.4677309130829,38.7612006855588,0 140.4631720880431,38.76131720268923,0 140.4593724049942,38.76141418310469,0 140.4570907292982,38.76147480856594,0 140.4510029642883,38.76101359914696,0 140.4487819216531,38.76098833473866,0 140.4458446265674,38.7603089989863,0 140.4429276534409,38.75961866565477,0 140.4399778559878,38.75898347237291,0 140.4353196368512,38.75800742328037,0 140.4304346496992,38.75664449266058,0 140.4272616887416,38.75624341655416,0 140.4226378500419,38.75518844241664,0 140.4187771007469,38.7541098783304,0 140.4157537823979,38.75294461629443,0 140.4119910410896,38.7517855357635,0 140.4082062792677,38.7500411280651,0 140.4051571082459,38.74830151813388,0 140.4027577032973,38.74723121219391,0 140.3986793033084,38.74630254054095,0 140.3955787045543,38.74459204053775,0 140.3931996679495,38.74167550473072,0 140.3909548694871,38.73928667040411,0 140.3894821785037,38.73808722923516,0 140.3886504767435,38.73573077616336,0 140.3855739893872,38.73220755588105,0 140.3838961311396,38.72991460685711,0 140.3821322584826,38.7270558411316,0 140.3797430771967,38.72354870626418,0 140.3796860648269,38.72237045824666,0 140.3771559551283,38.71831753531711,0 140.376226506147,38.71599537485225,0 140.3745328065112,38.7130887171749,0 140.3713895889212,38.71019203159338,0 140.3690856388021,38.70905274927657,0 140.3666676367121,38.70734682332719,0 140.3627672467016,38.70566328663869,0 140.3588673662421,38.7033798224553,0 140.3550335159741,38.70227727069404,0 140.3527120502726,38.7011420911881,0 140.3503584768184,38.69941591015582,0 140.3457809752522,38.69832764560336,0 140.3411499052455,38.69665249137644,0 140.3372836051535,38.69555579141228,0 140.3334111775337,38.69386290824153,0 140.3310929552521,38.69272702243946,0 140.3279670782888,38.68982657081178,0 140.3264270594299,38.6892674067825,0 140.3248422584807,38.68692674267418,0 140.3240257290572,38.68397381506237,0 140.3217626259367,38.68164510602636,0 140.3197912413637,38.67754943794332,0 140.3195466461493,38.67339897299029,0 140.3194561374482,38.67102416985107,0 140.3209046320054,38.66802108234396,0 140.3223250810033,38.66323910605414,0 140.3231424309647,38.66144457438248,0 140.3258751211366,38.65721862226343,0 140.3273455771683,38.65540495511826,0 140.3295866357972,38.65357520647905,0 140.3318443830593,38.65233889262945,0 140.3355766529604,38.64929097697916,0 140.338553106946,38.64685278046266,0 140.3414701190138,38.64440812656805,0 140.344438193535,38.64314985144421,0 140.3465861290665,38.64012900765383,0 140.3495166244054,38.6376836749151,0 140.3539133010492,38.63401444280787,0 140.3568955414237,38.63216702917745,0 140.3605660759417,38.62910932576238,0 140.3635435346448,38.62726087110185,0 140.3672815683003,38.62539546470643,0 140.3702670572729,38.62354958993873,0 140.3717363006141,38.62173971201327,0 140.375521335813,38.62047655344746,0 140.378519682614,38.61922253048514,0 140.3822532853768,38.61735754242823,0 140.3852452080997,38.6161014476502,0 140.3882348957477,38.61484444655736,0 140.3911773657393,38.61239987618264,0 140.3941322454066,38.60996064805684,0 140.3963571982476,38.60813577108538,0 140.3985594819297,38.60571847116175,0 140.399986631406,38.60331086395515,0 140.4000107286587,38.60390479801825,0 140.4014668581706,38.57920979615222,0 140.4012774741689,38.57416064890384,0 140.4011152329451,38.56983396999834,0 140.4009529904007,38.56550838888502,0 140.4008719257928,38.56334600617814,0 140.400763834549,38.5604632562319,0 140.4015191666922,38.55611629682667,0 140.4014380483046,38.5539551300118,0 140.4013029437956,38.55035378351437,0 140.4030288728154,38.54742609080225,0 140.4028935283048,38.54382624226545,0 140.4027310984535,38.53951167613192,0 140.4025684937417,38.53521119678093,0 140.4023788049618,38.53019535253718,0 140.4022162135242,38.52589582531633,0 140.4011641513328,38.52233594043531,0 140.4000850228376,38.51805912257731,0 140.3989246983616,38.5116317131297,0 140.3978998341947,38.50878759498618,0 140.3968478877124,38.50522647561745,0 140.3958230113254,38.50238194781426,0 140.3957418723235,38.50023133313823,0 140.3946899977534,38.49666960233076,0 140.3945343270955,38.4923143485272,0 140.3935157098661,38.48943140624695,0 140.3933325164574,38.48437936191593,0 140.3922821707339,38.4808245431865,0 140.3921743756821,38.47796000890433,0 140.3911779114512,38.47583687478127,0 140.39098940327,38.47082354548616,0 140.3908547611325,38.46724257854775,0 140.3898566211192,38.46512479033937,0 140.3887742043589,38.46086759872178,0 140.387718977087,38.45732112595176,0 140.3876351688582,38.45517887265598,0 140.3856638344225,38.45164885679246,0 140.3855565176517,38.44877946335443,0 140.3835631230846,38.44451938285894,0 140.3834022778767,38.44021549557039,0 140.3832414564504,38.43591179185163,0 140.3831074425244,38.43232549906391,0 140.3829734687885,38.42873931458905,0 140.382866297257,38.4258704386807,0 140.3827055481701,38.42156728650809,0 140.383487437926,38.41796018859717,0 140.3834070347259,38.41580878367758,0 140.3841882988248,38.4122021617121,0 140.3858847090947,38.40857461500843,0 140.3857766313757,38.40570622664437,0 140.3856956169088,38.40355483036846,0 140.3856146176156,38.40140333773023,0 140.3855065821061,38.39853455665866,0 140.3853989100574,38.39566585470305,0 140.3852376805399,38.3913629725992,0 140.3851839362259,38.38992869338625,0 140.3849958849971,38.38490867539738,0 140.3848615665706,38.38132295408823,0 140.3856423994963,38.37771675686492,0 140.386397814934,38.37339658841321,0 140.3862661818313,38.36981716886847,0 140.3870758852585,38.36693483022243,0 140.3879116153426,38.36476881131922,0 140.3895266789123,38.35899900337588,0 140.3903606458447,38.35683051477934,0 140.392081908762,38.35392676420608,0 140.393776833097,38.35031271772809,0 140.3954985985381,38.34742102272197,0 140.3971659124191,38.34310274383856,0 140.3997984299612,38.34019827839683,0 140.4024011375275,38.33655119333473,0 140.4041723119441,38.33507466508937,0 140.4076879054245,38.33140225877169,0 140.4057547912071,38.32856448328654,0 140.40655978181,38.32566762091528,0 140.4082498721966,38.32205625939939,0 140.4109046978431,38.31987525808227,0 140.4135331419255,38.31695224901554,0 140.4179730952427,38.31407651902427,0 140.4224718580758,38.31256059917158,0 140.4269615739558,38.31024039447562,0 140.4296453685619,38.30873356883831,0 140.4323455483286,38.30798361944211,0 140.4368318268053,38.30650039196073,0 140.4403885257017,38.30508115721872,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>～31</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					140.4403538991798,38.30237679073706,0 140.4328491320407,38.30563189357335,0 140.4256957378411,38.30856637816859,0 140.41136023438,38.31444507058741,0 140.4078215344054,38.31738192662741,0 140.3986840288914,38.32045637665407,0 140.389482450343,38.32359008626182,0 140.3821862255381,38.32815392904277,0 140.3749703500482,38.33415202147534,0 140.3696198659804,38.34010422348558,0 140.36421341328,38.34459481948202,0 140.3588491690023,38.35055889624814,0 140.355282677639,38.35503019496962,0 140.344204376382,38.35820599284158,0 140.3388256231794,38.36418120535058,0 140.3353106436852,38.37011463496295,0 140.3336600785088,38.37600642055167,0 140.3338734241241,38.38185737117925,0 140.3322167391131,38.38775456313432,0 140.3324265543841,38.39360835988601,0 140.3307696982239,38.39950483582776,0 140.3309794462695,38.40535797379129,0 140.3293187741848,38.41125661856118,0 140.3295723296014,38.41857882710187,0 140.3298766919624,38.42736383455573,0 140.3301810731099,38.43614708924065,0 140.3303839694138,38.44200165271977,0 140.3306376407469,38.44931872871866,0 140.3308405655522,38.45517149763985,0 140.3310516127054,38.46101898173151,0 140.3312125126753,38.46540317887355,0 140.3314806705915,38.47271013597096,0 140.3335686033409,38.47851073105255,0 140.3337833524868,38.48435648335212,0 140.3358718864621,38.49015764976842,0 140.337985722168,38.49743020474491,0 140.3399818592808,38.50473388052747,0 140.3420908601085,38.51052562259157,0 140.3442559078457,38.51777937522569,0 140.3483131894927,38.52498921565418,0 140.3523181716781,38.53074165399286,0 140.3524842124862,38.5351254773794,0 140.352705648906,38.54097086970407,0 140.3548205615276,38.54677295221333,0 140.3550977578329,38.55408132006705,0 140.3572694821238,38.56134831116533,0 140.3574916194568,38.56719640280506,0 140.3577693278587,38.5745069334981,0 140.3598871221596,38.58031613509921,0 140.3620474622514,38.58758756632091,0 140.3622618032802,38.59343644470231,0 140.3588325603545,38.60229254900895,0 140.3590479835329,38.60814104009293,0 140.3555052419065,38.61406986590063,0 140.3537876332128,38.61849577497508,0 140.3502985769408,38.62588450037856,0 140.3467021598142,38.6303486226812,0 140.3432130367507,38.63773473681776,0 140.3377920786777,38.6436969604091,0 140.3323181279766,38.64819632404259,0 140.3268829031277,38.65271570816425,0 140.3214567262023,38.65724233673962,0 140.3142179803485,38.66327972539202,0 140.3087860037346,38.66780918663002,0 140.3033514628099,38.6737598690048,0 140.2959736741715,38.67685539361269,0 140.2886868018522,38.68144987905268,0 140.2813551286019,38.68600676818311,0 140.2740220954038,38.69056351993779,0 140.2666692382065,38.69509699624906,0 140.2574869679952,38.70111877518657,0 140.2501908059221,38.70573361357439,0 140.2446733447237,38.70878400062291,0 140.2372811571057,38.71187609033913,0 140.2298000921124,38.71477963592776,0 140.2223492033347,38.71637290520302,0 140.2167754095388,38.71793230264344,0 140.2074030965007,38.7180956020975,0 140.196256034453,38.7199246780042,0 140.1849777340509,38.71994391348367,0 140.1737812052072,38.72043518716177,0 140.1607563449497,38.72327648802317,0 140.1532780845793,38.72340248694106,0 140.1459020458912,38.72645246225486,0 140.1403716721649,38.72973691739004,0 140.132984698205,38.73280281561947,0 140.1237790435472,38.73561160442281,0 140.1144903124351,38.73723551073844,0 140.1089080802459,38.74055842849765,0 140.0958993614539,38.74376271903955,0 140.0868517419112,38.74946797427583,0 140.0812854639806,38.75106071902444,0 140.0718807916603,38.75453180667888,0 140.0646727060195,38.75875990472252,0 140.0554002191643,38.7619025324074,0 140.0461703237642,38.76650640917247,0 140.0406395156391,38.7695614759885,0 140.0331113894541,38.7744172928548,0 140.0277426761567,38.77717900765056,0 140.0182273679649,38.78222932089592,0 140.0107504014087,38.78540794944015,0 140.0036251855995,38.78804417676995,0 139.9975418808459,38.78423354351524,0 139.995793578291,38.77797858681829,0 139.9933692104661,38.77112866908224,0 139.9934306406627,38.76191480145739,0 139.9932116957278,38.75459411332778,0 139.9927125309591,38.74912023474651,0 139.9966155786077,38.74279847102222,0 139.9963431063405,38.73402902217233,0 139.9980377343379,38.72814094507453,0 139.9976385582361,38.72252357586269,0 139.9976741862016,38.71645122501464,0 139.999202714608,38.7107278187439,0 139.9991861523853,38.70472185027834,0 139.9933359720983,38.70204380768153,0 139.9895824877141,38.69762454895913,0 139.989401761657,38.69178106051685,0 139.987345927763,38.68597890899275,0 139.9852130633915,38.67873920192367,0 139.9850600237933,38.67287729981346,0 139.9793653276232,38.6700635953797,0 139.9739029361323,38.67603689246504,0 139.9683640083065,38.68057020440207,0 139.9647941522657,38.6879852644172,0 139.9609649556558,38.68513217571843,0 139.9608137133313,38.67777924192401,0 139.9606364516502,38.67193440584369,0 139.9642663057011,38.6659793613884,0 139.9660187363213,38.6600681228319,0 139.9696436288425,38.65412149210405,0 139.9733281281547,38.65111040210435,0 139.9806909950373,38.64509201524776,0 139.9862314285049,38.64056997397719,0 139.9974527142391,38.63589451150011,0 140.0030403962017,38.63282802122789,0 140.0086207713031,38.62976497744751,0 140.0178677049804,38.62813167354106,0 140.0233665762425,38.62510793424447,0 140.0306555431563,38.61912821244549,0 140.0361288919958,38.61464043949365,0 140.0397577035782,38.61018428098431,0 140.0470338598933,38.60274181842932,0 140.0525041657933,38.59826020527274,0 140.0560534814895,38.59090940001516,0 140.0596285445607,38.58502228304459,0 140.059500360553,38.57921613226665,0 140.0593631959717,38.57341926074673,0 140.061025384303,38.56759735134762,0 140.060887047973,38.56181038508756,0 140.060749481896,38.55602979350789,0 140.0587826504239,38.55029395506606,0 140.0568189720973,38.54456640123124,0 140.0548251655302,38.5388414234266,0 140.0491287501982,38.5346225389473,0 140.0415658782294,38.53043366889928,0 140.0323469155413,38.52918612305253,0 140.025028271987,38.52934428417934,0 140.017610202757,38.52948143805053,0 140.0101870263319,38.52961819865973,0 140.0027586356013,38.52975462302578,0 139.9953251742855,38.52989065096712,0 139.9878865212735,38.53002627295332,0 139.9804170106681,38.53015767967064,0 139.9728262297845,38.53315345931212,0 139.9633235550456,38.53474628153092,0 139.9556963796364,38.53631254783758,0 139.9480296519548,38.53933018532313,0 139.9385178095525,38.5438484405413,0 139.9330076052323,38.54832075472765,0 139.9259042649051,38.5528350839231,0 139.9202107233453,38.55730720340347,0 139.9145052733185,38.56178839539823,0 139.9107331853082,38.56770148536461,0 139.903656088134,38.57366576401959,0 139.8981637645993,38.57668645729962,0 139.890957196371,38.58265152693361,0 139.8855098068151,38.58859074896095,0 139.8799746005009,38.59307855151211,0 139.870680005276,38.60057225439795,0 139.8630998993353,38.60806513871154,0 139.8574808418478,38.61257818535793,0 139.8539006955013,38.61996752379353,0 139.850281507228,38.62589585979175,0 139.848618610528,38.63471712736074,0 139.8487660953316,38.6405744957472,0 139.8490242732437,38.65082751733258,0 139.8510576109397,38.65664943586615,0 139.8550514971009,38.66536391003892,0 139.8570489980355,38.66972156391959,0 139.8592223561525,38.6799320168283,0 139.8594329336139,38.68725184452515,0 139.8614456357937,38.69160402972778,0 139.8636274366558,38.70181232937885,0 139.8656830004069,38.70762825359223,0 139.8658099476629,38.71202072654396,0 139.8660215181761,38.71934200523599,0 139.8661908718163,38.72519937702744,0 139.868184421765,38.72956340945017,0 139.8683227079125,38.7354409657385,0 139.872287560278,38.74418831641886,0 139.8724965149033,38.75301121644113,0 139.8745534366972,38.76032801092277,0 139.8747248584449,38.76619037667818,0 139.8748963267057,38.7720530627234,0 139.8769050276301,38.77641407535532,0 139.8771197229416,38.78374306782572,0 139.8791719958002,38.78957027593944,0 139.8812677615082,38.79686368972111,0 139.8814830932903,38.8041938886668,0 139.8816120317256,38.80859248170893,0 139.8818256201314,38.81592515944988,0 139.8819538109203,38.82032503261453,0 139.8784881243285,38.83066634476374,0 139.8768186473911,38.83803794475552,0 139.8732656382295,38.84544729783834,0 139.8714675110825,38.84841853769424,0 139.867913824723,38.85582783563267,0 139.8662003308932,38.86173349447127,0 139.864571349722,38.87057414335206,0 139.8610585073523,38.87945159276565,0 139.8593911707932,38.88682030347681,0 139.8577234432233,38.89418940853356,0 139.8560117316557,38.90009250542349,0 139.8523700649742,38.90456767079375,0 139.8359939358685,38.91376938965632,0 139.8333889266807,38.9152499700596,0 139.8253051432756,38.92446228756607,0 139.8225189460368,38.92872857570077,0 139.820092673245,38.93172042724811,0 139.8153227215613,38.92933878150289,0 139.8119890278501,38.92784036338441,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>～34</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					139.8128331554568,38.9283533603317,0 139.8834541946192,39.00145540361975,0 139.8888082260504,39.05886730099801,0 139.8835891574628,39.09505442595238,0 139.8715492982412,39.11684338607449,0 139.8998765559419,39.15175151881215,0 139.9095412242354,39.18134990416255,0 139.9073069393955,39.19974236991131,0 139.9010108233665,39.20193726846872,0 139.901836022264,39.20999333659449,0 139.9038614352982,39.21589387662981,0 139.8968069678456,39.2159091541727,0 139.8976159985131,39.21252419802525,0 139.8968037013349,39.21499434307437,0 139.8982391224729,39.21318324016411,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>～42</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					139.8978560909601,39.21340599085173,0 139.8963458490461,39.20833408627011,0 139.8974291019301,39.20358867449266,0 139.9049499474141,39.20089711353718,0 139.9076382832334,39.19364919327428,0 139.9075672711398,39.18468241451471,0 139.908081427685,39.17768520235811,0 139.9033306640063,39.16404262635552,0 139.8999508213219,39.15413198826472,0 139.8866894175489,39.13889981101276,0 139.8871799917292,39.13140479411384,0 139.876156864408,39.11924058878627,0 139.8732973942409,39.11612713776272,0 139.8813575010389,39.10075743469135,0 139.8824809873198,39.0948391182142,0 139.8819863635358,39.09307924292323,0 139.8819950109228,39.09268701462172,0 139.8820061638973,39.09219829008429,0 139.8820150525615,39.09181044205437,0 139.8819200045074,39.09135357148428,0 139.8818235482988,39.09099420571895,0 139.881726779313,39.09064205985888,0 139.8817333377226,39.09028330014191,0 139.881638990595,39.08984718604381,0 139.8816416236459,39.08951475467386,0 139.8814414555189,39.08919471309693,0 139.8813578035254,39.088724032226,0 139.881066010738,39.08838199404133,0 139.8810083933673,39.08789658640831,0 139.8807299063988,39.087526748636,0 139.8804566336231,39.08707593586966,0 139.8801636231801,39.0867829335513,0 139.8799679205459,39.08641960305624,0 139.8796773355197,39.08619851859493,0 139.8793882350659,39.08590323655948,0 139.8791224397558,39.08540177216589,0 139.8789490439096,39.08506418440557,0 139.8787979815266,39.08460362717201,0 139.8785280590697,39.08428427776134,0 139.8782687493389,39.08380712570662,0 139.8781941594961,39.08348494590376,0 139.8781161081465,39.08317377468047,0 139.8780363324049,39.08286915247543,0 139.8780679558412,39.08252818890225,0 139.8779937525271,39.08208196840593,0 139.8779172151975,39.08171208200982,0 139.8779373851368,39.08140322684125,0 139.8779581115443,39.08109505989584,0 139.8778970696608,39.08070425172831,0 139.8779192622439,39.08039810302763,0 139.8782081569275,39.08016913589572,0 139.878411539762,39.07979770283826,0 139.8786056370198,39.07957489456305,0 139.8790712361536,39.07934836635992,0 139.8794473521451,39.07911792659382,0 139.8798246351457,39.07894756667521,0 139.8800185490291,39.07865286763035,0 139.8803931944695,39.07835125447767,0 139.8805792548813,39.07820184222815,0 139.8810358331875,39.07797538342018,0 139.8813965269486,39.07769755536921,0 139.8815768848295,39.07749197959962,0 139.8819358214122,39.077214239578,0 139.8822020503008,39.07701229711639,0 139.8825583584534,39.07673649788569,0 139.8830030207449,39.07652112940416,0 139.8835305551658,39.07625078568596,0 139.8838841767432,39.07610347857506,0 139.8842355490968,39.07596172392852,0 139.884582935383,39.07569713585457,0 139.8849321833345,39.0754846485649,0 139.8852783999738,39.07520944126627,0 139.8855352331854,39.07494174784559,0 139.8856197163193,39.07480907873899,0 139.8859600557956,39.07447671620523,0 139.8862135369528,39.07421384605996,0 139.8862932839205,39.0739539621422,0 139.8863726497228,39.07369531958716,0 139.8863640880477,39.07337171798654,0 139.8864393315487,39.07298532295092,0 139.8864306067263,39.07266596860169,0 139.8864219387883,39.07234976867299,0 139.8864133291048,39.07203567405443,0 139.8863205070394,39.07172371647311,0 139.886312276078,39.07141444688778,0 139.8862219559146,39.07116942154697,0 139.8861320672472,39.07092657017592,0 139.8860411438875,39.070624769487,0 139.8857843747656,39.07032998877212,0 139.8854452710842,39.06997720818777,0 139.8852742820191,39.06968439017822,0 139.8851050583062,39.06945231232277,0 139.8849358614026,39.06922317994267,0 139.884686606015,39.06899249840421,0 139.884359286996,39.06881851780347,0 139.8841126920385,39.06859019600733,0 139.8838656137687,39.06836538717032,0 139.883702132205,39.06831121392004,0 139.8757490731484,39.02661751611509,0 139.8636281535735,38.98882493799668,0 139.8534480999221,38.97147353258254,0 139.8277829290975,38.9288755980367,0 139.8253900769276,38.90046106975162,0 139.8017619560853,38.82996489780649,0 139.7517153415419,38.77921357533371,0 139.7183903643945,38.75667559711523,0 139.699741274362,38.73716726887508,0 139.6965331799097,38.73413019785959,0 139.6994422371312,38.73010577363093,0 139.6955306689305,38.72496474730427,0 139.6849802403862,38.72026636229796,0 139.6690095151958,38.70806578862942,0 139.6617471904264,38.70656084718694,0 139.6590456045369,38.70536206406703,0 139.65768970961,38.70385253465121,0 139.6554604968288,38.7024437243254,0 139.6536835884401,38.70114002142687,0 139.6523471531504,38.70052512334168,0 139.6510171221913,38.69980082528334,0 139.6492580964496,38.69810936947169,0 139.6479472035933,38.69684522293937,0 139.6466432487483,38.69558776026986,0 139.6453497924333,38.69391421094952,0 139.6445014432067,38.69259341341633,0 139.6432388075872,38.69044426934834,0 139.6424004696421,38.68917299757029,0 139.6411330977066,38.68795769688118,0 139.6398902731544,38.68592125892631,0 139.6386368506691,38.68473131887512,0 139.6373765738389,38.68396808392139,0 139.6353495086866,38.68212668750849,0 139.6333121166704,38.68145685936426,0 139.631638601236,38.68143226715509,0 139.6299967127348,38.68127586003958,0 139.6279591676207,38.68040303014332,0 139.6244475779173,38.68070944320041,0 139.6237195307136,38.67904310615499,0 139.6221356715265,38.67749195144396,0 139.6206515903031,38.6750467755914,0 139.6203027369422,38.67360255387719,0 139.6190605200996,38.67268986767231,0 139.6179156409596,38.67119916557536,0 139.6172946740252,38.66972886411265,0 139.6162543390204,38.66802481376932,0 139.6151710374685,38.66647449356145,0 139.6140049014669,38.66485904367394,0 139.6132826885853,38.66346219000062,0 139.612505283831,38.66250598454652,0 139.6119003468194,38.66087303228609,0 139.6109396924672,38.65888552430621,0 139.6099454793247,38.6570141415344,0 139.6092970603372,38.65585552287257,0 139.6086498026911,38.65442242882446,0 139.6075127957282,38.65319612123068,0 139.6072027775816,38.65218180791329,0 139.6061199057102,38.65087698167245,0 139.6050108769494,38.64991809575748,0 139.6039424071824,38.64890007506435,0 139.6029460189105,38.64749410165541,0 139.6019939594031,38.64632057580664,0 139.6013510752054,38.64528342405435,0 139.5997479056336,38.64455185856448,0 139.5989975423306,38.64369036398267,0 139.5970687191481,38.64259746585275,0 139.5964530809235,38.64100269174212,0 139.5950619466585,38.63972006636864,0 139.5945011757298,38.63836097212759,0 139.5935923741379,38.63670751796173,0 139.5925844898903,38.63546833141749,0 139.5915587772353,38.6345337812029,0 139.5913417670012,38.63353729266409,0 139.5904965355717,38.63160866044728,0 139.5894307687505,38.6307491494858,0 139.5888547545203,38.62950038235687,0 139.587436862383,38.62890372034546,0 139.5860332564515,38.62829828447875,0 139.5858992409278,38.62673794506307,0 139.586171753681,38.62515080678946,0 139.5860551379867,38.62359880593073,0 139.586280047775,38.62207844490246,0 139.5861909991809,38.62052593736264,0 139.5862738327874,38.62019168439009,0 139.5537278238725,38.54559193460865,0 139.5491854624953,38.54025262549988,0 139.5458232261659,38.53661724874969,0 139.5435735126953,38.53575051665964,0 139.5413482604405,38.53209385153055,0 139.5380102589591,38.52755236903483,0 139.5346804634163,38.52302556770724,0 139.5324650070128,38.5203161587656,0 139.5291452553611,38.51671586610635,0 139.5269388328527,38.51401676788223,0 139.5236229776666,38.51133827950617,0 139.5203320431701,38.50685154883544,0 139.5181294301805,38.50507321925364,0 139.5159512293418,38.50148975934977,0 139.5126929597552,38.49612920218215,0 139.5105391802741,38.49166741124942,0 139.5083783149752,38.48811309817031,0 139.5073262099759,38.48455038816235,0 139.5062760598376,38.4809947305378,0 139.5052154037114,38.4783376862202,0 139.5030983093589,38.47303572326923,0 139.5020584986415,38.46950367582482,0 139.5010566200908,38.46507373887732,0 139.5000231647233,38.461558006834,0 139.497901299209,38.45892595431419,0 139.4947586494761,38.45280392826041,0 139.4926616115848,38.44931729024812,0 139.4894873365793,38.4449914874462,0 139.488495621935,38.4415034144649,0 139.4864289721484,38.43717903721213,0 139.484303435571,38.43461739591994,0 139.4810030341714,38.43213993537126,0 139.4800116682293,38.42953895469184,0 139.4768323737895,38.4269891058354,0 139.4725420519282,38.42363224967262,0 139.4693814987776,38.41939557819114,0 139.4662371129676,38.41516379947933,0 139.464174861844,38.41177119207024,0 139.464296722103,38.40750251990762,0 139.4611903963814,38.40329026179305,0 139.4602397273932,38.39989714844443,0 139.4592908562407,38.39651222213537,0 139.4594798393358,38.39226135696857,0 139.4585147438213,38.38890191626559,0 139.4585842130393,38.3863792377887,0 139.4586830319927,38.38135721892052,0 139.4587073513631,38.3796885066255,0 139.4578691305815,38.37383442727396,0 139.4579698762308,38.37132597583628,0 139.4570294291442,38.36800584307341,0 139.4572484672288,38.36383460502466,0 139.4576091370635,38.35965246724179,0 139.4555582188151,38.35474827600255,0 139.4555875005256,38.35146664178016,0 139.4556338675845,38.34736897575682,0 139.4546692765614,38.34328863640366,0 139.4547966228267,38.34001515262831,0 139.4538150944756,38.33676637931632,0 139.4539338720767,38.33350703824351,0 139.4529942314671,38.32945753264694,0 139.4530758197697,38.32621292717567,0 139.4533227802416,38.32217022810708,0 139.4545439713115,38.31893171075695,0 139.454539560333,38.31812425569942,0 139.4515402395926,38.25786925863932,0 139.4512087091634,38.24875599472905,0 139.4509445907495,38.24148406937837,0 139.4484470177445,38.2342568369461,0 139.4482518184514,38.22882516296055,0 139.4523840031993,38.21973335567703,0 139.4521196105485,38.21252421351278,0 139.454011983243,38.20350646299103,0 139.4515254006199,38.19635725654596,0 139.4491091883223,38.19101254253312,0 139.446502385388,38.18031741448701,0 139.4374027613958,38.17331289863006,0 139.4304721321581,38.16451455345079,0 139.423622407837,38.15751932526046,0 139.416841029779,38.15229855216914,0 139.4100174167031,38.14531829317215,0 139.4032633639381,38.14012140784153,0 139.3965207336381,38.13493293437912,0 139.3897421484699,38.1279945630898,0 139.3830232388119,38.1228191256571,0 139.3762736686832,38.11590427848444,0 139.3695803194459,38.11074831719981,0 139.3628595557175,38.10385824559953,0 139.358337709191,38.09695487997841,0 139.3516456622114,38.09009333344577,0 139.3449346733204,38.08151547009034,0 139.3404823900448,38.07638540244759,0 139.336006846675,38.06953964837287,0 139.3271711948816,38.06104274291224,0 139.3205807464734,38.05597086648908,0 139.3182829591145,38.04742999673564,0 139.3116909360423,38.04067100418437,0 139.3051137285053,38.03392532880502,0 139.2985513754707,38.02719339971126,0 139.2941594170828,38.02044945137606,0 139.2876410011629,38.01543898315735,0 139.2832540114798,38.00702845122837,0 139.2767733222968,38.00372587861571,0 139.2681395174337,37.99876565028821,0 139.2573653049476,37.99215446563868,0 139.2509216836789,37.99054718536836,0 139.2423281283014,37.98560534881315,0 139.2380383540253,37.9839760254276,0 139.2209030866645,37.9791397824248,0 139.2102030335681,37.97758531654333,0 139.1995150140909,37.97435721463144,0 139.1781603207093,37.9695781520534,0 139.1675033200979,37.96635529662773,0 139.156857423684,37.96313468513198,0 139.1483598460067,37.95989303549448,0 139.1398705668173,37.95665426726148,0 139.1313866431123,37.953418424598,0 139.1207531094332,37.9518685610016,0 139.1122873252665,37.9486359464284,0 139.0974417454015,37.94547158150315,0 138.952042085247,37.84765322560989,0 138.9293644332983,37.83679483497132,0 138.9157629998736,37.82955169550598,0 138.897630895457,37.81868220294248,0 138.8840034338737,37.80779207560729,0 138.874870918502,37.79688578114117,0 138.8656357947893,37.77871131499601,0 138.8564287452832,37.76058779507377,0 138.8473030406284,37.74613419375982,0 138.8337544541668,37.73174166339799,0 138.8201918702204,37.71376152507435,0 138.815576277936,37.69936361515103,0 138.8020759810721,37.68146313404385,0 138.7930361483208,37.66356216448422,0 138.7884351787915,37.64569285515047,0 138.7750660726332,37.63150687839531,0 138.7616997105554,37.61377608928776,0 138.7528188931359,37.60316460349375,0 138.7394972751045,37.58192653734447,0 138.7306264831468,37.564247122207,0 138.7261928252672,37.55365468456262,0 138.7173500271145,37.53252063315869,0 138.7041896150224,37.51853945674768,0 138.6954178231889,37.50102883676741,0 138.6866779291768,37.48706085454533,0 138.6779609943953,37.47311541640752,0 138.6692537116506,37.45922431146909,0 138.6605699445963,37.44187577341484,0 138.6475538043383,37.4315622119497,0 138.6302338614566,37.41092313190416,0 138.6215924971591,37.40062224997995,0 138.6086479507269,37.38691729590094,0 138.6000653100157,37.37318633272327,0 138.591488663732,37.36291081845427,0 138.5786134389706,37.35267569179581,0 138.5658249337021,37.33899232463102,0 138.5488083535929,37.3253331214235,0 138.5360297189288,37.31853321552161,0 138.5190751250778,37.30492886762593,0 138.4977544313952,37.29481651276095,0 138.4850679504541,37.28465899299118,0 138.4680642508786,37.27455778745659,0 138.4510579995409,37.26447459516512,0 138.43835578335,37.25437829994261,0 138.4213774115663,37.24431468319417,0 138.4128605979654,37.24097681252955,0 138.3916953827007,37.22756457909447,0 138.3746907524592,37.22089378018293,0 138.3578172775553,37.21084699666029,0 138.3367471332663,37.20082027213191,0 138.3199679215508,37.19078757335208,0 138.3031133795415,37.18412368586161,0 138.273712370291,37.17079253957391,0 138.261160716774,37.16412642144849,0 138.2276728323554,37.15082917987106,0 138.2068934137671,37.14085770151042,0 138.1861369199817,37.13089778800222,0 138.1652370059356,37.12427708711748,0 138.1400015000567,37.12099605644387,0 138.1233358365071,37.11770288994157,0 138.1066847918502,37.11440995787037,0 138.0858438489029,37.11112442808053,0 138.0732220450031,37.10781177570157,0 138.0520118663071,37.10449756484785,0 138.0355457031572,37.094550099169,0 138.0188876641736,37.0879228911829,0 138.0021163314668,37.08128516556531,0 137.9899468872064,37.07135530551863,0 137.9737674042658,37.06145936229901,0 137.9529799108528,37.05484900448675,0 137.9489564374314,37.05154921099342,0 137.9242793035093,37.03833701399243,0 137.9119732311704,37.03173793147744,0 137.8996779334624,37.02514217083096,0 137.8831319106209,37.01853889652401,0 137.8666816850444,37.01195085217491,0 137.8246208111918,37.02899182823433,0 137.8073001834298,37.02485159214496,0 137.7758143541191,37.0164587325046,0 137.7314956666201,37.00158961558996,0 137.6874719162008,36.98877616678973,0 137.6391811614261,36.97887948469064,0 137.6451694432775,36.97958946142641,0 137.645523966655,36.97957640104104,0 137.551947443747,36.95865760339645,0 137.5399796918771,36.95862763942508,0 137.5314302577897,36.9586079713207,0 137.524591667029,36.95858696625431,0 137.5195291751317,36.95572887037861,0 137.5128061397947,36.95144749339561,0 137.506101018944,36.94717458235737,0 137.4994132581534,36.94291186363237,0 137.4910896024092,36.93724556177632,0 137.486134744687,36.93301933568804,0 137.4793942036305,36.93160382079313,0 137.4727122281796,36.92878879315676,0 137.4660974130353,36.92458051801487,0 137.4611328950927,36.92177837191532,0 137.4528571470394,36.91757935244404,0 137.4446637212037,36.91200740747243,0 137.4381126486976,36.90784115609377,0 137.4317141750728,36.90093226182581,0 137.4301698082247,36.89817990362455,0 137.4238752068815,36.88994280805061,0 137.4207399335123,36.88583780229098,0 137.4177616049203,36.8790222981832,0 137.4164620014899,36.87223999241866,0 137.4135041514305,36.8654775377017,0 137.4121426944562,36.8600903325115,0 137.4107856764695,36.85472014834464,0 137.4110945102909,36.8493682570122,0 137.4099801660825,36.84003768593991,0 137.4070699563741,36.83339602452595,0 137.4057348893086,36.82810667378718,0 137.4061237570554,36.82152633894909,0 137.4047878776443,36.81627770597255,0 137.4036114799146,36.80843661723301,0 137.4022848057749,36.80322738053785,0 137.4009665414581,36.79803184387019,0 137.4012851293668,36.79285635574324,0 137.4015254438707,36.78898444298068,0 137.4035533536111,36.7825555142183,0 137.4037896658731,36.77870804879522,0 137.3405194666288,36.74029469043075,0 137.331398918207,36.73451148375997,0 137.3245772471441,36.7306506812992,0 137.3132919485035,36.72864403715815,0 137.3042653381948,36.72666033337791,0 137.2952495732836,36.72468758438755,0 137.2840012581687,36.72271919537899,0 137.2772479014729,36.72077629294714,0 137.2660073715314,36.71879490862284,0 137.2615083897212,36.71686904412932,0 137.2457843608998,36.71670028206453,0 137.2412919826514,36.7166517031003,0 137.2300615125227,36.71652943088785,0 137.2165858423754,36.71638138592736,0 137.2053568107167,36.71625684442982,0 137.1963738948148,36.71615553543007,0 137.189636508851,36.71607296298181,0 137.1761390632454,36.71778544488134,0 137.1671552204275,36.71768684510703,0 137.1581715090339,36.71758761450018,0 137.1469081374508,36.71934433020724,0 137.1379217256289,36.71924349110345,0 137.1333509819875,36.72295976948897,0 137.1241905823192,36.73040610550444,0 137.115005329291,36.73786643689995,0 137.1080537741026,36.74535940465242,0 137.1011327097527,36.75097401419701,0 137.0919359261716,36.75657196848772,0 137.0828330226578,36.75836865175327,0 137.073723967651,36.76016592984956,0 137.0645463132319,36.76387171860321,0 137.0596959353512,36.77337300745629,0 137.0478056037474,36.78859057710945,0 137.0384182965756,36.79618590841284,0 137.031436538958,36.79996397454384,0 137.0198033665238,36.80562609743609,0 137.0127151926361,36.81135228586009,0 137.0034090443214,36.81512255667956,0 136.9964640794782,36.81698311637064,0 136.9631648935597,36.84888501759982,0 136.96259276376,36.86007928243464,0 136.9621151412001,36.869438280764,0 136.9661532899038,36.87885977136418,0 136.9702054318946,36.88830784993806,0 136.9743891414667,36.8958383723371,0 136.9808382922487,36.90342409325197,0 136.987302593471,36.9110259094794,0 136.993749035423,36.91872439384701,0 137.0002776667238,36.92458361215874,0 137.0046385155076,36.92849676004778,0 137.0110726956145,36.93809440954329,0 137.0175885220683,36.94584846241644,0 137.0218455287932,36.95357950984103,0 137.0283851454166,36.96140096883601,0 137.0326635143907,36.96918732563151,0 137.0370748906753,36.97319626399281,0 137.0389958725461,36.98299099428548,0 137.047803634792,36.99296494597261,0 137.0497700747389,37.00274668304172,0 137.0517934403545,37.01067244271254,0 137.051517383112,37.01857556377798,0 137.0558054734401,37.0285008327508,0 137.0555404073152,37.03642127338468,0 137.055207899698,37.04635132773007,0 137.0571986519373,37.05634238386953,0 137.0568676290172,37.0663394712625,0 137.0565352237298,37.07637019178732,0 137.0493303141428,37.08231563862898,0 137.0400638364417,37.08018087404145,0 137.0285449994956,37.07601963334809,0 137.0241110533978,37.06995371688936,0 137.0196081655369,37.06589594067193,0 137.0131124848975,37.0538234920116,0 137.0065200919963,37.04562201324946,0 137.0021548239183,37.03954534978839,0 136.9954813096875,37.03346638564518,0 136.9888148388688,37.0274255486162,0 136.9820609143497,37.02339875839795,0 136.9707903810495,37.01736132116801,0 136.9616405119822,37.01532208522145,0 136.955028239226,37.00932307694835,0 136.943697809126,37.00529100001466,0 136.9326459129448,36.99724708347028,0 136.9304626705695,36.99524753762356,0 136.917057636244,36.98739356483943,0 136.9037315984506,36.97946541312665,0 136.892614769775,36.97351475852139,0 136.8861060359884,36.96761983137912,0 136.8727430471149,36.96165863157149,0 136.8615626176629,36.95766228578734,0 136.850531700819,36.95174114934742,0 136.8396607242257,36.94390836010511,0 136.831098034335,36.93612101027463,0 136.8225637596599,36.92834574636279,0 136.8137581583262,36.92440712887525,0 136.8053075061565,36.91661163458061,0 136.7991268105625,36.90888997844517,0 136.7927783547976,36.90311661320605,0 136.7888645295473,36.89548605688545,0 136.7828560123596,36.88596129013249,0 136.7765487587898,36.8802290141728,0 136.7728326414973,36.8707765619241,0 136.7689674905684,36.86322498895297,0 136.7673627663381,36.8557184619301,0 136.7660865828831,36.84450689204488,0 136.76449113467,36.83704691303552,0 136.7627372176963,36.83145731325903,0 136.7613494742992,36.82215473152556,0 136.7596146851311,36.81658497562786,0 136.7608125014105,36.80367146043871,0 136.7592555308723,36.79630119529502,0 136.7577030233025,36.78894958968007,0 136.7537581602568,36.78341901075898,0 136.7501676388368,36.77425369033672,0 136.7464151418655,36.76693307240002,0 136.7406293157453,36.75779626827166,0 136.7368888427989,36.7505227356594,0 136.7331592063661,36.74326621977307,0 136.7272257708791,36.73600477631399,0 136.7256823594058,36.72882795913382,0 136.7195551821937,36.72340491968235,0 136.7137744416141,36.71443341925266,0 136.7098714096181,36.70905835326339,0 136.7061309732304,36.70192556655686,0 136.7022480954997,36.69656747813203,0 136.696360446227,36.68942392210096,0 136.6927085149333,36.68231194417624,0 136.6890653760183,36.67521665503388,0 136.6834373380627,36.6663556255974,0 136.6818058228378,36.66107616380134,0 136.678371575199,36.65228717964222,0 136.6771170113059,36.64355377414931,0 136.6731552844861,36.64001798510405,0 136.6675897431912,36.63125892247597,0 136.664011052834,36.62428275486059,0 136.6604413462964,36.61732273788368,0 136.6568805048823,36.61037885421494,0 136.6576313052056,36.60351313005273,0 136.6587539398099,36.59324497859637,0 136.6573555160119,36.58638865737576,0 136.6557734025305,36.58124909498624,0 136.654381762411,36.57442076987628,0 136.6553177285323,36.56594685269049,0 136.6580131842774,36.56090574737264,0 136.6097736629342,36.51696923683854,0 136.6047521602249,36.51689456829161,0 136.5998276031099,36.51400772848493,0 136.590049993395,36.50684341372179,0 136.5819179690953,36.50112242581029,0 136.5786921403626,36.49828447653135,0 136.5705880732175,36.49259489686352,0 136.559240638129,36.48548419028332,0 136.5561038231229,36.48127919736309,0 136.5480604988624,36.47562973142964,0 136.5432833820213,36.47142152798362,0 136.4969103183183,36.45774695531983,0 136.4969407476081,36.45703578481003,0 136.4966787130606,36.45655783867292,0 136.4961860888057,36.45489442140445,0 136.4956844819218,36.45347104324412,0 136.4951422518465,36.45299158809737,0 136.4943412803096,36.45203610478715,0 136.493551746918,36.45084893931514,0 136.4927643809699,36.44966300053923,0 136.4917095533411,36.44824127652655,0 136.4909372673266,36.44682733323966,0 136.490446480009,36.4454211631645,0 136.4891073135764,36.44423739840949,0 136.4875280364651,36.44235699658538,0 136.4867526809317,36.44118789436347,0 136.4854463636711,36.4395526701538,0 136.4844207433056,36.43792716246023,0 136.4828686513278,36.43583978364337,0 136.4818247496426,36.4346796640268,0 136.4800328652867,36.43214345717617,0 136.4787590924578,36.43030665638746,0 136.4769670484171,36.4280145509164,0 136.4751966395159,36.42550651519115,0 136.4744299714707,36.42459517529774,0 136.4741987792874,36.42391812210997,0 136.4731744261157,36.42278117086934,0 136.4721521079419,36.42164643848683,0 136.4714056082692,36.42051822533746,0 136.4704023898645,36.41916556569769,0 136.4696437804757,36.41826412058861,0 136.4688710060717,36.41758563543667,0 136.4681301693216,36.41646543002553,0 136.4671028307561,36.41556376172215,0 136.466077119315,36.41466348763434,0 136.4650530370719,36.41376460911437,0 136.4645577568473,36.4130957745677,0 136.4637915009924,36.41242330919986,0 136.4630097182859,36.41197102407008,0 136.4614647343767,36.41084843591379,0 136.4604140324996,36.41039292775809,0 136.459127660312,36.40949618541538,0 136.4583498917901,36.40904613299894,0 136.4573360865764,36.408156046401,0 136.4570826981069,36.4079337704986,0 136.4555123552014,36.40725419020924,0 136.4544669900305,36.40680148545277,0 136.4529189849159,36.40590588909778,0 136.4521645463053,36.40524165591711,0 136.4513921968594,36.40479488544374,0 136.4503695899916,36.40412756444194,0 136.4498680239668,36.40368604578306,0 136.4488657901596,36.40280404220336,0 136.4493196531706,36.39465274637877,0 136.4496602812688,36.39380625029273,0 136.4505523807638,36.39275746983591,0 136.4511408108943,36.39213003193462,0 136.4519952424043,36.39150762739159,0 136.4531152210375,36.39089023407173,0 136.4539851143678,36.3900580132122,0 136.4551025018593,36.38944219887003,0 136.4559354172055,36.38903348326068,0 136.4562532466206,36.3884059152325,0 136.4570851774965,36.38799798919533,0 136.4587471453249,36.38718302065147,0 136.4615155951943,36.38575728140346,0 136.4628891955756,36.38515040052876,0 136.4634666994292,36.38453141576221,0 136.4294194765637,36.34789627247351,0 136.4285302375301,36.34750478739502,0 136.426337135199,36.34596929874196,0 136.4232576552623,36.34404847634659,0 136.4219647138121,36.34290298908373,0 136.4211269995877,36.34176745191514,0 136.4198843080766,36.33988075858015,0 136.4181657526945,36.33836200162173,0 136.4173572100841,36.33686099539753,0 136.4175059068994,36.33463696393143,0 136.4175801201554,36.33352700733067,0 136.4168201013044,36.33129786240505,0 136.4164362772971,36.33018732182289,0 136.4161232889601,36.32797651603591,0 136.4153147940655,36.32649474103356,0 136.4149902452277,36.32465377443062,0 136.4142410333775,36.32244382295129,0 136.414408995164,36.32024918447301,0 136.4145922517668,36.31770016840405,0 136.4146856559447,36.31589390859156,0 136.4161756768451,36.31445540447066,0 136.4176139504378,36.31338757694083,0 136.4337653124624,36.29894021243477,0 136.4283181823176,36.29318158402594,0 136.4264702041011,36.29385741164994,0 136.4255553639463,36.29419602952846,0 136.4227844112675,36.29556731086132,0 136.4209314001587,36.29660139409887,0 136.4196053986278,36.29693356422052,0 136.4182437863538,36.29726640935728,0 136.4164004052174,36.29830208234698,0 136.4150194241992,36.29899080863919,0 136.4127295962127,36.29966626517798,0 136.4109244476245,36.299992763963,0 136.4081902972773,36.30066165339514,0 136.4063221358244,36.3013475557251,0 136.404534984189,36.30202844372328,0 136.4027828908131,36.30199664488576,0 136.400570289342,36.30195850276081,0 136.3987999769186,36.30157312642844,0 136.397460351397,36.30119596390404,0 136.3943287191545,36.30078932123291,0 136.3925572412087,36.30040363445072,0 136.3908218475373,36.29966109319688,0 136.3891697647983,36.29820621003999,0 136.3879458283031,36.29711650033003,0 136.3871652942213,36.29603599486257,0 136.3873025493265,36.29461779899692,0 136.3874737372674,36.29284885299092,0 136.3875762407764,36.29178950631018,0 136.3881851206093,36.29003455496817,0 136.3883533890873,36.28827635582277,0 136.3884877242845,36.28687274990968,0 136.3886552730137,36.2851219472033,0 136.3887890269913,36.2837242542736,0 136.3885194905704,36.28197376968321,0 136.3888038622228,36.27954779829712,0 136.3889359406064,36.27851300767868,0 136.3890369329227,36.2767712108082,0 136.3895865140297,36.27539273911624,0 136.3901633828254,36.27367067078909,0 136.3902756657665,36.27228960959866,0 136.3908788037987,36.27022892488276,0 136.3914528357117,36.26851632162556,0 136.3919973398165,36.26714967974971,0 136.3925172783439,36.26577783789749,0 136.3926322597175,36.26405874305504,0 136.3935877338295,36.26269793902372,0 136.3936856183456,36.2613281174731,0 136.3937833635274,36.25996002323412,0 136.3939053682209,36.25825228769996,0 136.3925734734411,36.25891998757274,0 136.3928783711343,36.26063358904281,0 136.3931101253699,36.26337816654082,0 136.3929478832509,36.26578378968666,0 136.3933388866163,36.26647995266243,0 136.3936784863494,36.26786390181156,0 136.3939243639079,36.27027849690454,0 136.3937328071918,36.2726916466093,0 136.3931870998922,36.27406626788486,0 136.3930769198646,36.27545005708012,0 136.3925299130891,36.27682870648185,0 136.3911104961853,36.27889938315449,0 136.3904629825154,36.28061970937262,0 136.3893922514171,36.28198784320637,0 136.3888558080189,36.2830263782273,0 136.3873434604234,36.28510051713393,0 136.3858592481618,36.28682935534927,0 136.3830408735206,36.2885390867491,0 136.3811603254561,36.28956328342346,0 136.3784642350386,36.28986963298061,0 136.376589783393,36.29089642914523,0 136.3743434317244,36.29121140375192,0 136.3725631545173,36.29118082150917,0 136.3702935065196,36.2914951454663,0 136.3685101135885,36.29146444881282,0 136.3671723090406,36.29144140911555,0 136.3641796082086,36.29032978820064,0 136.3635049070529,36.28855500694009,0 136.362343677337,36.28712749928435,0 136.3611891916778,36.28570309300212,0 136.3605232167028,36.28394010243569,0 136.3602594625356,36.28253788268326,0 136.3599389456872,36.28148485638641,0 136.3591697515394,36.28007215799237,0 136.3592697830932,36.27867483036444,0 136.3580929678007,36.27690945957492,0 136.3584206751021,36.27484631375718,0 136.3585343195028,36.27310657132934,0 136.3586064088922,36.27100930750873,0 136.3580050079734,36.2682350486791,0 136.3591195560058,36.26619428166852,0 136.3596756518645,36.26517601098794,0 136.3607438832492,36.26348403606923,0 136.3640381467356,36.26114691254258,0 136.364937476605,36.2608195906263,0 136.3667665392902,36.25982387803477,0 136.3695794952206,36.25782934328158,0 136.3710190982593,36.25649552295763,0 136.3719636606448,36.25548628609653,0 136.3728981806331,36.25447470916974,0 136.3743566817212,36.25280480151879,0 136.35826444232,36.26661405913423,0 136.4195561397381,36.31089470725724,0 136.4209357594171,36.31019817632893,0 136.4226696163401,36.31095000613556,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>～48</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					136.3777610133273,36.24989556221387,0 136.3773775169097,36.25050380706323,0 136.3758406816357,36.25171230768345,0 136.374659243048,36.2526176577193,0 136.3734817500189,36.25352478273776,0 136.3718986875081,36.25535594373348,0 136.3699354682644,36.25656320560005,0 136.3683668472297,36.25747138406757,0 136.3675577155379,36.25901699508095,0 136.3659674152553,36.26055120237979,0 136.3647784008748,36.26147136838175,0 136.3627603594977,36.26426790021282,0 136.3619469384426,36.26551502921563,0 136.360723468068,36.26739283033569,0 136.3598963306114,36.26896860888986,0 136.3598706964117,36.26991443118431,0 136.3590502436248,36.27117434980846,0 136.3586128822267,36.27275553060257,0 136.3585774241805,36.2740250113707,0 136.357322015633,36.27656585657593,0 136.3573125108505,36.27688688979318,0 136.3572465277098,36.27913402571372,0 136.3571898558885,36.28106578086945,0 136.3571424996798,36.28267974022985,0 136.3570945902245,36.28430055714902,0 136.3570271635572,36.28657772856828,0 136.3569594855467,36.28886313752482,0 136.3560946924495,36.29114168580195,0 136.3556460184124,36.29277757334391,0 136.3555958915283,36.29442340424917,0 136.3543346972441,36.29638550052269,0 136.3542931714732,36.29770902530017,0 136.3530491502346,36.29901126434354,0 136.3521827699212,36.30098523676526,0 136.3501071435028,36.30294613703219,0 136.3492678543145,36.30393387426291,0 136.348024612276,36.3049160833034,0 136.3459734476327,36.30588574621116,0 136.3434895014102,36.3075213514982,0 136.3414445422671,36.30815842047147,0 136.3393832863171,36.30913276674666,0 136.338171290975,36.30911160918027,0 136.3361513535,36.30907633085755,0 136.3345354395386,36.30904808001626,0 136.3329195656948,36.30901980243186,0 136.3317076828473,36.30899858637349,0 136.3288793593021,36.30895023858066,0 136.3260496593027,36.30890407576369,0 136.3252768964104,36.30821775505486,0 136.3240790412693,36.3081758618014,0 136.3216683070966,36.30780854005702,0 136.3196815420295,36.3071113227015,0 136.3176983738411,36.30641171530002,0 136.3161048771744,36.3060486818151,0 136.314533469293,36.30534985799938,0 136.3129576837276,36.30496965850156,0 136.3117790457766,36.30460480664631,0 136.3097837979905,36.3042394442195,0 136.3081921083223,36.30388082993139,0 136.3070038004024,36.30352898926404,0 136.3050733189247,36.30248094476983,0 136.3046535081492,36.30249029556472,0 136.2983060186628,36.29556397153527,0 136.2923602042537,36.29539640107078,0 136.2883783518665,36.29531933042286,0 136.2842241795929,36.29705271504945,0 136.2760885310254,36.29792864565462,0 136.2709720320794,36.29956126406825,0 136.2650193034032,36.29939376380909,0 136.2600284036344,36.29930260259589,0 136.2573068589136,36.29579809531681,0 136.2545930409499,36.29229869317557,0 136.2509522466853,36.28794178958214,0 136.2492173084426,36.28451480551934,0 136.2484099256502,36.28196406010927,0 136.2477232807742,36.27773837009485,0 136.2470743423876,36.27347659215975,0 136.246357548147,36.27007253244955,0 136.2466356650288,36.26668740792588,0 136.246982490578,36.26246580308588,0 136.2462682667963,36.25908410325086,0 136.2466147791901,36.25488191609107,0 136.2460101721097,36.25063542508968,0 136.2453251227877,36.24725044527252,0 136.2455833969337,36.24393336135867,0 136.2449240804288,36.23977929401352,0 136.2442016368961,36.23645960887301,0 136.2445892834221,36.23151595795007,0 136.2449114779663,36.22740665489659,0 136.2451777653977,36.22411720878559,0 136.244613033309,36.2191669816503,0 136.2450297392617,36.21424279105072,0 136.2451403581818,36.21263014954388,0 136.245409587614,36.20860966579871,0 136.2457389378144,36.20454379443462,0 136.2462641742545,36.19805857596487,0 136.2465260324221,36.19482527431324,0 136.2470481347453,36.18837711115296,0 136.2494319697952,36.18278871362345,0 136.2494967900989,36.18198676350936,0 136.252836041859,36.1764349244668,0 136.254179374583,36.17166431960482,0 136.2554556860339,36.16770208937023,0 136.2576932629522,36.16376196211952,0 136.2589695519427,36.15981364612082,0 136.2612595261516,36.15510311343664,0 136.2625199064801,36.15118105309788,0 136.2656849091419,36.14730098830469,0 136.2678893516803,36.14341383715765,0 136.2701469908688,36.13875489453087,0 136.2722790641301,36.13566876150154,0 136.2744622408873,36.13181188247139,0 136.2784798288064,36.12877226430822,0 136.2797039101237,36.12491494675505,0 136.2818785689832,36.12107885643709,0 136.2829894133708,36.11877950807046,0 136.2841530889193,36.11571340378262,0 136.286312148951,36.11190085895427,0 136.2875236102834,36.1080812040109,0 136.2887321134015,36.1042704509799,0 136.2908777040273,36.10048458796942,0 136.2939050509897,36.09748472224531,0 136.2969306844381,36.09448885851944,0 136.299972353192,36.09149095913185,0 136.3009748471326,36.09074322468704,0 136.2520453359535,36.02578797842336,0 136.2470317808174,36.02000639718938,0 136.2419791818423,36.01566360514848,0 136.2386989128155,36.00992725725448,0 136.2318828120941,36.00698697191886,0 136.2251604936913,36.0011935241333,0 136.2200775125973,35.99826736027251,0 136.2115016172135,35.99670185428158,0 136.2029744498549,35.99371744419141,0 136.1961745239375,35.99076301924502,0 136.1893773156372,35.98780919206786,0 136.1861299490639,35.98208347083923,0 136.181112886854,35.97774719606159,0 136.1778211712301,35.97344342607982,0 136.1712449949631,35.96484355710198,0 136.1680127266881,35.95913640132896,0 136.1647837245949,35.95343392718677,0 136.1598927852537,35.94629698809371,0 136.1584957228755,35.93782280378608,0 136.1552235503993,35.93354326903433,0 136.1536397292567,35.92669254878791,0 136.1537946503393,35.92248785358636,0 136.1522889960752,35.91684794161508,0 136.1526005790756,35.9084500690927,0 136.152859900695,35.90145894210056,0 136.1530671334331,35.89587058511494,0 136.1549834360544,35.89032198923636,0 136.1568981412674,35.88477725888379,0 136.1588111893617,35.87923636810176,0 136.1607226574415,35.87369935730204,0 136.1660456499542,35.86823639824974,0 136.1747273409313,35.86423728082776,0 136.1783306544097,35.85875036384979,0 136.1819043212952,35.85463241585077,0 136.1855547058649,35.84775908470546,0 136.1874516469688,35.84224249171111,0 136.1876468854726,35.83669322473624,0 136.1895420978677,35.83118417381628,0 136.1930828620951,35.82710309298628,0 136.1950116657548,35.82022535334769,0 136.1968926116304,35.81473382929211,0 136.1970780694698,35.80920779535323,0 136.198967291642,35.80371618639616,0 136.2009042657708,35.79684841136961,0 136.2010790471459,35.79133914338632,0 136.2012627447849,35.78582933241343,0 136.1997498404708,35.78029036715993,0 136.1999826486812,35.77341310586953,0 136.1984751835192,35.76788312782303,0 136.1969687366615,35.76235766759056,0 136.1954635829785,35.7568365837221,0 136.1922731566525,35.75128843219674,0 136.1890878316343,35.74574603314031,0 136.1840251948069,35.74565056024311,0 136.1822509893327,35.74835919297325,0 136.1769821472493,35.75511652176119,0 136.173413123469,35.76053182680737,0 136.1682585020114,35.76317469866536,0 136.1596314443226,35.76712141903558,0 136.152806096033,35.7683595521496,0 136.1442988145448,35.76956377115315,0 136.1357971533171,35.77076725593018,0 136.1274358562457,35.77059615021234,0 136.1207707664901,35.76908941365419,0 136.1140233906521,35.76758345900016,0 136.1089282110351,35.76199241580522,0 136.1073027592846,35.75783799420756,0 136.1075748260659,35.74960406422427,0 136.1095618438146,35.74278917454026,0 136.1097550288962,35.73730699341261,0 136.1099988178796,35.73183868079476,0 136.1103639413058,35.72364639917375,0 136.1106053076041,35.71819110285819,0 136.1091265128359,35.71269542290565,0 136.0853699019894,35.70157469139752,0 136.0815583570136,35.69716053691342,0 136.0813130650957,35.69635004180899,0 136.0806587410489,35.69506915267809,0 136.0807057021113,35.69402486432987,0 136.0807571231479,35.69297898981009,0 136.0805017599049,35.69166612154545,0 136.0805567687041,35.69062016603652,0 136.0812609994554,35.6895834424854,0 136.0822878373776,35.68829700331717,0 136.08232617055,35.68725977016126,0 136.0836403351282,35.68624852770645,0 136.0839972819245,35.68521822126932,0 136.0840253097793,35.68444094709272,0 136.0843993015969,35.68314941097658,0 136.0844724664536,35.68184653963292,0 136.0848358609303,35.68107164710479,0 136.0849239925288,35.6795109662367,0 136.0846638962975,35.67846541244795,0 136.0847878043784,35.67715604036874,0 136.0839455148945,35.67583398300664,0 136.0834144638144,35.67452281195044,0 136.0828668517498,35.67347276974019,0 136.0823217850113,35.67216883751959,0 136.0814498200373,35.67086191081775,0 136.0801931342865,35.6698125958181,0 136.0794747857424,35.66878306316487,0 136.0788419735614,35.66774401371227,0 136.0779665059003,35.66643720534972,0 136.0777338197601,35.66540106477558,0 136.0775540848977,35.66436581774004,0 136.0769071844781,35.66332719369443,0 136.0762642148197,35.66254408238824,0 136.0753531613655,35.66175492919503,0 136.074142066299,35.66070336428579,0 136.0729042430573,35.66016496283602,0 136.071666840268,35.65962673238753,0 136.0704301050445,35.65908867031067,0 136.0688795037604,35.65854445940704,0 136.0686217529148,35.65751437417503,0 136.0686649575449,35.65674706313919,0 136.0706075231354,35.65601916913457,0 136.0728447192705,35.65555293950904,0 136.0738320037254,35.65480571136588,0 136.074821515243,35.65405918886648,0 136.0751937895907,35.65304523366736,0 136.0752645211406,35.65177078757531,0 136.0753210501956,35.65075206811383,0 136.0750623042983,35.64972763277528,0 136.074159449033,35.64894535379704,0 136.0732428178071,35.64841764436449,0 136.0720115628287,35.64788368733704,0 136.0698360442221,35.64733063270026,0 136.0676465078929,35.647031657109,0 136.065787179846,35.64648523985689,0 136.0642139887808,35.6464532542866,0 136.0626409042879,35.64642124321365,0 136.0613824449297,35.64639562894319,0 136.059494859527,35.64635718953514,0 136.0582052096311,35.64683932237782,0 136.0569308637915,35.64706760563333,0 136.0553433548165,35.64728981019266,0 136.0546996148727,35.64753127227227,0 136.0527669061368,35.64825568971072,0 136.0511303162497,35.64924089166659,0 136.0498210751648,35.6499782453754,0 136.0485105741775,35.65071591910847,0 136.0474974356699,35.65171513244442,0 136.0464851167511,35.65271523576232,0 136.045821892456,35.65321240929927,0 136.0425065336391,35.65608265876179,0 136.0431064071793,35.65684969498204,0 136.0433755976644,35.65811402924838,0 136.0433371147973,35.65938926655707,0 136.0433046924099,35.66040465266418,0 136.0432713462405,35.66169295666068,0 136.0435569701704,35.66272675893125,0 136.043524582277,35.66346728421059,0 136.0431536117144,35.66496365943767,0 136.0428039816657,35.66596641851892,0 136.0421578906238,35.66672757723784,0 136.0417918183145,35.66797123215404,0 136.0411327009348,35.66897835035091,0 136.0407737411884,35.6699716497873,0 136.0394820405892,35.6704318737199,0 136.0381865918111,35.67142203361706,0 136.0369407780313,35.67219889704667,0 136.0356477070462,35.67292635148812,0 136.0343550347223,35.67391774829287,0 136.0336755955729,35.67465128844524,0 136.0320519497612,35.67536934442668,0 136.031383476676,35.67637570498492,0 136.0303916205293,35.677372429751,0 136.0293933149419,35.6786275213098,0 136.028415174297,35.67937338401286,0 136.0274463184126,35.6798640880225,0 136.0264554505453,35.68086584952845,0 136.0254658014727,35.68186889075415,0 136.025434175192,35.68263633011927,0 136.0247403001876,35.68415959611541,0 136.02409368386,35.68594544577217,0 136.02442736883,35.68672271694592,0 136.0243978224803,35.68825729040221,0 136.0246832070947,35.68928607563254,0 136.0255569749565,35.69033071954363,0 136.0264436717191,35.69112180250122,0 136.0279501911349,35.69193024635941,0 136.0291731317703,35.69273025212399,0 136.0304003850564,35.69353098366896,0 136.0316363447575,35.69433091030065,0 136.0328945380747,35.69461517770112,0 136.0344752482656,35.69464983772742,0 136.0357443791905,35.69467618212439,0 136.0370292152603,35.69418795131757,0 136.0383376355765,35.69318255324062,0 136.0399640086549,35.69218395338231,0 136.0406003687906,35.69219635171744,0 136.0428396431253,35.69172659340096,0 136.0434536354359,35.69225503598199,0 136.0446862582905,35.69331125136982,0 136.0452725105627,35.69461611801656,0 136.0452374621014,35.69564826456398,0 136.0442744742633,35.69638896133309,0 136.0436321872227,35.69688315508819,0 136.0426278095121,35.69816049367401,0 136.0422486542211,35.69946159590523,0 136.0422183953914,35.70049024810659,0 136.0421830038925,35.70152455098329,0 136.0424727113763,35.70230935835997,0 136.0427448404446,35.70361289677542,0 136.0430259604911,35.70465873677772,0 136.0433060108861,35.70570779114129,0 136.0429599810755,35.70648153694447,0 136.041985298711,35.70698282042639,0 136.0403714191837,35.70747294706757,0 136.03940023754,35.70796817631732,0 136.0387329621146,35.7087378377287,0 136.038681176034,35.71004696342689,0 136.0383228536091,35.71133181897704,0 136.0382829669668,35.71262414496515,0 136.0382440698557,35.71391468203032,0 136.0382047310348,35.71496126893453,0 136.0384551281489,35.71631437712957,0 136.0384079076823,35.7176233640815,0 136.0383641794822,35.71892632944366,0 136.0383201058853,35.72023051134435,0 136.0376519840811,35.72100288351832,0 136.0360251437521,35.7217512888572,0 136.0356695629585,35.72278821258995,0 136.0362606078782,35.72411754085775,0 136.0368522540162,35.72544820990493,0 136.0371517951803,35.72598546580367,0 136.0370809289159,35.72783812252383,0 136.0370359995316,35.72890900111521,0 136.0350927474782,35.72963092927144,0 136.034128328532,35.7300987426683,0 136.0328457356869,35.7308002634228,0 136.0315556139232,35.73127761679994,0 136.0302535407231,35.73202298095627,0 136.029257889087,35.73304533007858,0 136.0282460058224,35.73385200102641,0 136.0275564731395,35.73490603043118,0 136.0268745535991,35.73594615318757,0 136.025878577549,35.73721275552591,0 136.025184155744,35.73802897492889,0 136.0241335745053,35.73963678832367,0 136.0234404552845,35.74069559596687,0 136.0224513696052,35.74145623367908,0 136.0220692926979,35.74253980519978,0 136.0213846084794,35.74358343152731,0 136.0213040510411,35.74495780717811,0 136.0212544687897,35.7460328458191,0 136.0211924155508,35.74737820371294,0 136.0214688784108,35.74821036746539,0 136.0230348521231,35.74907899541375,0 136.0249611808169,35.74963793880927,0 136.0262649843008,35.74964147381837,0 136.0269293952781,35.7491278313742,0 136.0272942519183,35.74806726849833,0 136.0280204793251,35.74644012613149,0 136.0286954906211,35.74541531527291,0 136.0287294935319,35.74412385632917,0 136.0290959869138,35.74306011384111,0 136.0297847878186,35.74200379399947,0 136.0307845738867,35.74122235636919,0 136.0314674813234,35.74017848737225,0 136.0324616442405,35.73940899668914,0 136.0337503080748,35.7394374635911,0 136.0356849452108,35.73947587649264,0 136.0359684040599,35.74054548955617,0 136.0359392537027,35.74134305054895,0 136.0349326522266,35.74238637007443,0 136.0335973331343,35.74415372241069,0 136.0332321008942,35.74522005705525,0 136.0331770834401,35.74656706734277,0 136.0328076286591,35.74764617972184,0 136.0324389882777,35.74872287798191,0 136.0320747847907,35.74978678670639,0 136.0317156042288,35.75083624246318,0 136.03073613124,35.75131999760225,0 136.0294348873556,35.75203453203459,0 136.0284661758362,35.75249414819552,0 136.0271661033159,35.75297110665237,0 136.0255673328822,35.75314481918479,0 136.0242943914614,35.75308007332745,0 136.0233029664192,35.75286886972196,0 136.0216481859194,35.75218401376449,0 136.0209822068917,35.75220854858839,0 136.0302906235252,35.71939389938211,0 136.0316678914191,35.71726549442207,0 136.0330283860765,35.71513556845364,0 136.0337372412711,35.71298838879385,0 136.0358193021133,35.71032738111345,0 136.0365599989367,35.70818016625837,0 136.0367174516662,35.70549311303942,0 136.0374627711899,35.70389580046425,0 136.0375558371075,35.70065873521808,0 136.0362768012165,35.69846832612876,0 136.0343371631948,35.69626471454619,0 136.0317202882266,35.69513494208405,0 136.0290781784302,35.69508708842863,0 136.0264891261332,35.69342222309576,0 136.0239033671711,35.69175908306473,0 136.023352794426,35.68906453619947,0 136.0227369019452,35.6868869988489,0 136.0234375255682,35.68418067940329,0 136.0235380587265,35.6820430391023,0 136.0256339399006,35.67995153681743,0 136.0276757183587,35.67892700570117,0 136.0297470977572,35.67682448115716,0 136.0318301449993,35.67473393708323,0 136.0345658204513,35.67265179997477,0 136.0367495251653,35.66956779279096,0 136.0382065280861,35.66697194099649,0 136.040252232496,35.66430728086971,0 136.0415759789144,35.66209660141787,0 136.0423205203486,35.6594222105577,0 136.0424198474483,35.65676110707902,0 136.0438417775624,35.6541291773574,0 136.0439404511347,35.65147282308456,0 136.0446996934711,35.64883205181352,0 136.0454582436456,35.64619351110905,0 136.0455169239438,35.6446035062576,0 136.0463134902863,35.640909910693,0 136.0477304783046,35.63829312186708,0 136.0478677793888,35.63459941443088,0 136.0478874336229,35.63407232450711,0 136.0600434300294,35.62449107541196,0 136.0613292125975,35.62350594078635,0 136.0634001167424,35.623545470108,0 136.0650533745257,35.62357780563384,0 136.0670878552235,35.62395874106925,0 136.0686831967286,35.62500430744962,0 136.0702879556866,35.62604819169248,0 136.0714650334401,35.62742151563115,0 136.0730885613685,35.62812843066134,0 136.0743436192683,35.62781560407485,0 136.0756279838944,35.62682864093499,0 136.0783385823487,35.62514464255735,0 136.0800126639686,35.62450607773791,0 136.0816863632945,35.62386762791328,0 136.0821015875015,35.62321151108696,0 136.084366588647,35.62186742129753,0 136.0861343910093,35.62021192986189,0 136.0874154385301,35.61890059798774,0 136.0876943280461,35.61694915153067,0 136.0881572443449,35.61561773070115,0 136.0887913669558,35.61392736168884,0 136.0901763915055,35.61293425245968,0 136.0910977033593,35.61161306652596,0 136.0927055739406,35.6109863661567,0 136.0947356748433,35.60970212509962,0 136.0958706742801,35.60906965285617,0 136.0971284975129,35.60776049762946,0 136.0988304223178,35.60612457429825,0 136.0997046575693,35.60447308265587,0 136.1001463545535,35.60314665123442,0 136.1001380403962,35.60180828437792,0 136.1010218228769,35.60049120062296,0 136.1010932546575,35.59882565275516,0 136.1011503477802,35.59749443001663,0 136.101221059121,35.59583181515939,0 136.1012974365338,35.5938365580572,0 136.1013786492457,35.59218061676244,0 136.1018478471298,35.59086396168073,0 136.1019007461587,35.58953795366366,0 136.1019757321937,35.58754865805005,0 136.1020866613633,35.58557819619728,0 136.1017666756771,35.58392971973557,0 136.101476256037,35.58196354179025,0 136.1014975932914,35.58062730950249,0 136.1007437623114,35.57896129772796,0 136.100759891043,35.57762035465175,0 136.1004183795614,35.57562762316439,0 136.0996669284553,35.57430283530132,0 136.0989255225016,35.572647853615,0 136.0985694588026,35.57132401746348,0 136.0982638675224,35.56970199705074,0 136.0983679005115,35.5680939890777,0 136.0984305282105,35.56577623069132,0 136.0984658637887,35.56479041679965,0 136.0985885646869,35.562869161328,0 136.0983135936836,35.56095297849281,0 136.0979661174622,35.55862801239714,0 136.0972783683708,35.5563632814852,0 136.0969806326191,35.55443395515891,0 136.0970474238569,35.55315041646015,0 136.0967131377695,35.55152381923466,0 136.0963850361209,35.55024532375478,0 136.0964834811149,35.54832529402587,0 136.096556067425,35.54705590812698,0 136.0973767861713,35.54538999555375,0 136.0974111302856,35.54441318310844,0 136.0974773291065,35.54245683546888,0 136.0979311511792,35.54117070562664,0 136.0984488925064,35.53929607625775,0 136.0993157780673,35.53769683233459,0 136.0993491897369,35.53672192560326,0 136.1061036404716,35.54052852691876,0 136.108269863291,35.54302207142335,0 136.1111881164061,35.54433639011363,0 136.1140042947031,35.54633137804998,0 136.1160791458858,35.54831342304891,0 136.1176780366863,35.54527907805385,0 136.1192158149782,35.54109671772396,0 136.1200498514206,35.53805507802628,0 136.1207930725144,35.53447951591247,0 136.1215269678514,35.53210588509453,0 136.1231526804762,35.52904706966984,0 136.1247329426057,35.52601966458271,0 136.125540101174,35.52359112628955,0 136.1264375739855,35.5198999023987,0 136.1273029615154,35.51683289649115,0 136.1273758373485,35.51437759097311,0 136.1274487214981,35.51192233537623,0 136.1283043342593,35.50886261079067,0 136.1306409245096,35.50765942971258,0 136.1345261504267,35.50585984246812,0 136.1375319082712,35.505317709263,0 136.1405679486467,35.50475991571113,0 136.1435464955277,35.50604309226603,0 136.1458340569752,35.50727387519657,0 136.1496182443483,35.50973349494581,0 136.1524336205128,35.51292639396196,0 136.1545660245135,35.51486606087855,0 136.1560162162433,35.51554105752231,0 136.1588996214199,35.51870824617554,0 136.1618386533896,35.52123140370273,0 136.1648424775393,35.52308992231655,0 136.167117352792,35.52489710506338,0 136.1701505540666,35.52610986706056,0 136.173140905164,35.5279579203812,0 136.1768768910827,35.53040404001117,0 136.178298445881,35.53173250142555,0 136.1819901944126,35.53367095211685,0 136.184177692122,35.536162664736,0 136.1878735694075,35.53753389956201,0 136.1908180353335,35.53833950951878,0 136.1938184007533,35.53845057348939,0 136.1976669803806,35.5360548915196,0 136.2022343905455,35.53490289069484,0 136.2053240793991,35.53250180799633,0 136.2076233509712,35.53131788022464,0 136.2092049183155,35.52887494458939,0 136.2115425778895,35.52642918419255,0 136.2123523196324,35.52457193330945,0 136.2139484854853,35.52151483100106,0 136.2140171619711,35.51906655375686,0 136.2140686619118,35.51723005372338,0 136.2156427395723,35.51484222173435,0 136.2172555292565,35.5111790547348,0 136.2180962730452,35.50811794844862,0 136.2189194403228,35.50567194974344,0 136.2189885410743,35.50320841900108,0 136.2206162113055,35.49892388839978,0 136.2214042211908,35.49771502378688,0 136.2230480595362,35.49283087258227,0 136.2231507227962,35.48914800143068,0 136.2247256181072,35.48672341819432,0 136.2255964836949,35.48243845548563,0 136.2272380001363,35.47756170817649,0 136.2288281342889,35.47452523125885,0 136.2296652051322,35.47147500828557,0 136.2320062981439,35.46845316098835,0 136.2313380539694,35.46537636782933,0 136.232173770046,35.46232821704603,0 136.2337774768552,35.45868283740052,0 136.2346123230782,35.45563679402491,0 136.2369829143215,35.45139602793319,0 136.2378014369252,35.44896286744228,0 136.2401543735817,35.44533560760296,0 136.2417388259002,35.44230688021813,0 136.2440572966496,35.43990388167092,0 136.2456727506988,35.43565522946367,0 136.2480218190146,35.43203266267764,0 136.2511043634053,35.42903536642666,0 136.2526671718897,35.42662375669224,0 136.2549663212926,35.42424085643872,0 136.2588250090393,35.42063538232597,0 136.2619056355315,35.41763879809079,0 136.265700857913,35.41587908955814,0 136.2679958597027,35.41409210949512,0 136.2710398643142,35.41231918087412,0 136.2740530707048,35.41176485862216,0 136.2770660167275,35.41121046137256,0 136.3044138484763,35.40367384961018,0 136.3074340121883,35.40372563732628,0 136.3111878888269,35.40440619543857,0 136.313431804071,35.40506086619067,0 136.3156757872932,35.40571549852417,0 136.3186770174358,35.40638192660004,0 136.3224570118757,35.40704986344905,0 136.3270156437905,35.40711188544699,0 136.3315687830824,35.407175127014,0 136.3361074040167,35.40663932838621,0 136.3376108872087,35.40666727577722,0 136.3406559959851,35.40549294167504,0 136.3444759567294,35.40432010400941,0 136.3498186469902,35.40316361464182,0 136.3506086497551,35.40194754248266,0 136.3575156290436,35.39776205959003,0 136.3629159218955,35.39355108306884,0 136.3667674481403,35.39115085031403,0 136.369843291467,35.38935432160024,0 136.375274252155,35.38331470984873,0 136.3768092090466,35.38211562788538,0 136.3776530773867,35.37906020278613,0 136.3792424871268,35.3760209555547,0 136.3800654900103,35.37358114527966,0 136.3808885662703,35.37114173046406,0 136.3817284306853,35.36809028526699,0 136.3825525009532,35.36565155547477,0 136.3841877285812,35.36260317938153,0 136.3850147049316,35.36077442698406,0 136.3859551491642,35.35588550611579,0 136.3869302171919,35.35343419945218,0 136.3892678379163,35.35042401502204,0 136.3899853893284,35.34861345408055,0 136.3936548058007,35.34685176319435,0 136.3981950253433,35.34509537058174,0 136.4011963278722,35.34514673319935,0 136.4034456542042,35.34518520455028,0 136.4071993396883,35.34585995184028,0 136.4110144373995,35.34592192375699,0 136.4146895864828,35.34659792565585,0 136.4154248956392,35.34722128660623,0 136.4206360973123,35.34792246971367,0 136.4243752791959,35.3485959146545,0 136.4273456012471,35.34865020888146,0 136.4310775318438,35.34932513683915,0 136.4340807923429,35.34937485658659,0 136.4385512367331,35.35067195108655,0 136.4415319775842,35.35133437973599,0 136.4445135283024,35.35199688298546,0 136.4474444424738,35.35449973370319,0 136.448896605467,35.35636379157396,0 136.451132611127,35.35701414027646,0 136.4533374285119,35.35889207026,0 136.4570306569147,35.36141101501502,0 136.4600053588935,35.36268847984201,0 136.4622441146275,35.36333887889403,0 136.4652497603221,35.36338929695238,0 136.4682249651111,35.36466476421863,0 136.4719672152833,35.3653402189921,0 136.474186236966,35.36659695785487,0 136.4779160862726,35.3678881683537,0 136.4809041996324,35.36917553237133,0 136.4839071363835,35.36984773072636,0 136.4899121137244,35.37118717155345,0 136.4951577994783,35.37313080573279,0 136.4974215223483,35.37317093730911,0 136.5011937332061,35.37323664185522,0 136.5042123683492,35.37328916414769,0 136.5079843762557,35.37335344206039,0 136.5094929381754,35.37337889745288,0 136.515538476216,35.3728639760063,0 136.5178114273455,35.37228527547509,0 136.5238922367703,35.36992358033525,0 136.527697410296,35.3687589023513,0 136.5322724615307,35.36699189189609,0 136.5360793754406,35.36582629542256,0 136.5383609141193,35.3652496328467,0 136.5414073327994,35.36406952872407,0 136.5459646413154,35.36291402533034,0 136.5505172006742,35.36175727872365,0 136.5520497689163,35.36055159406497,0 136.5558461203659,35.35938233194491,0 136.5588875684236,35.35820088911631,0 136.5634470758823,35.35642845693428,0 136.5687503916496,35.35528276485713,0 136.5748186130319,35.35353409003134,0 136.5823917494206,35.35180871404398,0 136.5861720930036,35.35125312204617,0 136.5914606905955,35.35072095400026,0 136.5952318345189,35.35077969374066,0 136.5982489096452,35.35082659009106,0 136.6020124735056,35.35149977262429,0 136.6050141861582,35.35277609307527,0 136.6080235409844,35.35343762850452,0 136.6110242397898,35.35471404581023,0 136.611013837155,35.35524793690673,0 136.6110845726905,35.3555432126067,0 136.6118921899202,35.35598517113629,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

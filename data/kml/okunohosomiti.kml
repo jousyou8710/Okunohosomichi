@@ -1,0 +1,2460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>okunohosomiti.kml</name>
+	<Style id="sh_sizukesa">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/sizukesa.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_kasa">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/kasa.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_hikaridou">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_hikaridou</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_hikaridou</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_matsusima">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/matsusima.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_sabisisa">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/MAMP/htdocs/Cesium02/image/sabisisa.jpg</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_suzusisa">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_suzusisa</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_suzusisa</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_muzan">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/muzan.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_zenji">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/zenji.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_monokakite">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_monokakite</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_monokakite</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_sao">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/sao.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_monokakite">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/monokakite.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_kaiko">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/kaiko.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_kasane">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_kasane</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_kasane</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_hamaguri">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/MAMP/htdocs/Cesium02/image/hamaguri.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_sakura">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_sakura</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_sakura</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_kitutuki">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_kitutuki</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_kitutuki</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_taitimai">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/taitimai.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_shiorasiki">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shiorasiki</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shiorasiki</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_sessyou">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/sessyou.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_samidare">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/samidare.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_sessyou">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_sessyou</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_sessyou</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_yamanakaya">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/yamanakaya.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_muzan">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_muzan</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_muzan</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_kaiko">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/kaiko.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_f05">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/MAMP/htdocs/Cesium02/image/f05.jpg</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_zenji">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_zenji</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_zenji</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_atukihi">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/atukihi.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_sabisisa">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_sabisisa</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_sabisisa</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_arigataya">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/arigataya.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_wasenoka">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/wasenoka.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_huuryuya">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_huuryuya</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_huuryuya</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_sessyou">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/sessyou.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_hikaridou">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/hikaridou.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_020">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/02.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_zennsyou">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/zennsyou.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_itihuri">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/itihuri.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_haguro">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/haguro.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_matsusima">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_matsusima</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_matsusima</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_shiorasiki">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/shiorasiki.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ayame">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/ayame.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_atumiyama">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_atumiyama</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_atumiyama</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_jinja">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/jinja.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_natuyama">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/natuyama.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_tukiyama">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/tukiyama.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_sanae">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_sanae</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_sanae</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_gyousui">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_gyousui</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_gyousui</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ishiyamano">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/ishiyamano.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_atumiyama">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/atumiyama.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_sizukesa">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_sizukesa</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_sizukesa</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>4.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_atumiyama">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/atumiyama.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_suzusisa">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/suzusisa.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_zennsyou">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/zennsyou.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_wasenoka">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wasenoka</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wasenoka</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_yudennsann">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/yudennsann.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shiorasiki">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/shiorasiki.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_unohana">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_unohana</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_unohana</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_tukikiyo">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/MAMP/htdocs/Cesium02/image/tukikiyo.jpg</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_taitimai">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/taitimai.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_aratau">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/aratau.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_wasenoka">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/MAMP/htdocs/Cesium02/image/wasenoka.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_hikaridou">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/hikaridou.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_natuyama">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/natuyama.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_gyousui">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/gyousui.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_hamaguri">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/MAMP/htdocs/Cesium02/image/hamaguri.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_taitimai">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_taitimai</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_taitimai</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_020">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/MAMP/htdocs/matuo/unohana.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_sanae">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/sanae.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_020">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_020</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_02</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ayame">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/ayame.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_naniwagata">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/naniwagata.JPG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_jinja">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/jinja.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_f05">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/MAMP/htdocs/Cesium02/image/f05.jpg</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_matsusima">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/matsusima.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_arigataya">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arigataya</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arigataya</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_siokoe">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/siokoe.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_huuryuya">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/huuryuya.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_monokakite">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/monokakite.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_akisuzusi">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/akisuzusi.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_yonohito">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/yonohito.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_unohana">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/unohana.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_kasane">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/kasane.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_yudennsann">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_yudennsann</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_yudennsann</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_arigataya">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/arigataya.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_akisuzusi">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/akisuzusi.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>4.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_muzan">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/muzan.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_02">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/MAMP/htdocs/matuo/unohana.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_yudennsann">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/yudennsann.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_sao">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/sao.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_siokoe">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/siokoe.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_yonohito">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_yonohito</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_yonohito</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_yonohito">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/yonohito.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_haguro">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_haguro</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_haguro</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_akisuzusi">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_akisuzusi</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_akisuzusi</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_sao">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_sao</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_sao</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_kasa">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_kasa</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_kasa</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_aratau">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_aratau</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_aratau</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_gyousui">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/gyousui.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_zennsyou">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_zennsyou</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_zennsyou</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_naniwagata">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_naniwagata</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_naniwagata</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_kaiko">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_kaiko</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_kaiko</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_samidare">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_samidare</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_samidare</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_tukikiyo">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/MAMP/htdocs/Cesium02/image/tukikiyo.jpg</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_sanae">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/sanae.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_unohana">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/unohana.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_jinja">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_jinja</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_jinja</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_naniwagata">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/naniwagata.JPG</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_kitutuki">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/kitutuki.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_yamanakaya">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/yamanakaya.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_yamanakaya">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_yamanakaya</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_yamanakaya</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_tukiyama">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/tukiyama.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_02">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/02.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_atukihi">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_atukihi</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_atukihi</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_sizukesa">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/sizukesa.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_haguro">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/haguro.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_humituki">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_humituki</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_humituki</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_itihuri">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/itihuri.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_tukiyama">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_tukiyama</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_tukiyama</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_natukusaya">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/natukusaya.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ayame">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ayame</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ayame</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_atukihi">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/atukihi.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_itihuri">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_itihuri</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_itihuri</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_sakura">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/sakura.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_kitutuki">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/kitutuki.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_humituki">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/humituki.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_kasa">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/kasa.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_kasane">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/kasane.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_zenji">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/zenji.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_siokoe">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_siokoe</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_siokoe</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_natukusaya">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_natukusaya</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_natukusaya</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_tukikiyo">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_tukikiyo</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_tukikiyo</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_humituki">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/humituki.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_samidare">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/samidare.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_hamaguri">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_hamaguri</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_hamaguri</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_suzusisa">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/suzusisa.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_huuryuya">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/huuryuya.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_sabisisa">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/MAMP/htdocs/Cesium02/image/sabisisa.jpg</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ishiyamano">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ishiyamano</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ishiyamano</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_f05">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_f05</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_f05</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ishiyamano">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/ishiyamano.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_sakura">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/sakura.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_aratau">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/aratau.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_natukusaya">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>C:/Users/花都/Desktop/ネットワーク演習/matuo/natukusaya.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_02">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_02</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_020</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_natuyama">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_natuyama</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_natuyama</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>okunohosomiti</name>
+		<open>1</open>
+		<Placemark>
+			<name>48.大垣</name>
+			<description><![CDATA[<img src="http://www.kankou-gifu.jp/image.php?w=420&p=.&f=/db_img/cl_img/893/main.JPG"><br>蛤のふたみにわかれ行秋ぞ
+<br>
+〔離れがたい蛤のふたと身が別れていくように、お別れの時が来た。私は二見浦へ旅立っていく。もう秋も過ぎ去ろうとしている。〕
+<br>
+（大垣　1689年9月6日）
+<br>
+<br>
+<img src="http://blogs.c.yimg.jp/res/blog-e4-95/ddbyn356/folder/536558/94/14175494/img_0?1318947456">]]></description>
+			<LookAt>
+				<longitude>136.6118437000943</longitude>
+				<latitude>35.35605750019528</latitude>
+				<altitude>0</altitude>
+				<heading>5.461966554477297e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000003213382</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_hamaguri</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.6118969252454,35.35593209638885,13.42566845993125</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>47.種の浜</name>
+			<description><![CDATA[<img src="http://img.4travel.jp/img/tcs/t/album/500/10/75/06/500_10750682.jpg?1361029315"><br>寂しさや須磨にかちたる浜の秋<br>
+
+〔光源氏が配流された須磨は淋しい場所として知られるが、ここ種の浜は須磨よりはるかに淋しいことよ。〕
+<br><br>
+波の間や小貝にまじる萩の塵
+<br>
+〔波打ち際の波の間をよく見ると、小貝に混じって赤い萩の花が塵のように散っている。〕
+<br>
+（種の浜（色の浜）　1689年8月16日）]]></description>
+			<LookAt>
+				<longitude>136.0508021035071</longitude>
+				<latitude>35.73341361306518</latitude>
+				<altitude>0</altitude>
+				<heading>0.00544233658374965</heading>
+				<tilt>0</tilt>
+				<range>8851.970858118259</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_sabisisa</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.0357294256322,35.7406608790681,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>46.出雲屋跡</name>
+			<description><![CDATA[<img src="http://hide-ogr.la.coocan.jp/honsyu/hosomichi_6/No76/P4160101.jpg"><br>名月や北国日和定なき
+<br>
+〔今夜は中秋の名月を期待していたのに、あいにく雨になってしまった。本当に北国の天気は変わりやすいものなのだな。〕
+<br>
+（敦賀　出雲屋　1689年8月15日）]]></description>
+			<LookAt>
+				<longitude>136.0702231252355</longitude>
+				<latitude>35.6557185687985</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0006773542859540088</heading>
+				<tilt>21.10379004849118</tilt>
+				<range>243.4656077279316</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_f05</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.0699749586194,35.65576498891943,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>45.氣比神宮</name>
+			<description><![CDATA[<img src="http://www.turuga.org/places/mcourse_basyou/images/mcourse_basyou_kehijingu.jpg"><br>月清し遊行のもてる砂の上<br>
+
+〔その昔、遊行二世上人が気比明神への参詣を楽にするために運んだという白砂。その白砂の上に清らかな月が輝いている。砂の表面に月が反射してきれいだ。清らかな眺めだ。〕
+<br>
+（氣比神宮　1689年8月14日）]]></description>
+			<LookAt>
+				<longitude>136.0754625242854</longitude>
+				<latitude>35.6546699104827</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004281487540600701</heading>
+				<tilt>6.338830055194227</tilt>
+				<range>666.6836986510582</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_tukikiyo</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.0747867574269,35.65489858400315,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>44.天龍寺</name>
+			<description><![CDATA[<img src="http://cdn-ak.f.st-hatena.com/images/fotolife/c/cippillo/20141027/20141027082428.jpg"><br>物書て扇引さく余波哉
+<br>
+〔金沢の北枝としばらく同行してきたが、いよいよお別れだ。道すがら句を書きとめてきた扇を引き裂くように、また夏から秋になって
+扇をしまうように、それは心痛む別れなのだ。〕
+<br>
+（天龍寺　1689年8月12日)]]></description>
+			<LookAt>
+				<longitude>136.2997259388377</longitude>
+				<latitude>36.09062282563343</latitude>
+				<altitude>0</altitude>
+				<heading>5.991975367855477e-005</heading>
+				<tilt>50.93330310254559</tilt>
+				<range>161.3362785369296</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_monokakite</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.2995753533998,36.09066237852748,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>43.全昌寺</name>
+			<description><![CDATA[<img src="http://blogs.c.yimg.jp/res/blog-72-25/maritesuhime/folder/1482751/01/51461501/img_2?1253282265"><br>終宵秋風聞やうらの山　【曾良】
+<br>
+〔裏山を吹く淋しい秋風の音を一晩中きいて、眠れない夜であったよ。一人旅の寂しさが骨身にしみる。〕
+<br><br>
+庭掃て出ばや寺に散柳
+<br>
+〔寺の境内に柳の葉が散り敷いている。寺に泊めてもらったお礼に、ほうきで掃いてから出発しよう。〕
+<br>
+（加賀 全昌寺　1689年8月6日～8月10日)]]></description>
+			<LookAt>
+				<longitude>136.3088432030069</longitude>
+				<latitude>36.30135017505675</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6175527542154389</heading>
+				<tilt>30.00044441838255</tilt>
+				<range>216.0304780931384</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_zennsyou</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.3088432030069,36.30135017505674,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>42.山中温泉</name>
+			<description><![CDATA[<img src="http://img.allabout.co.jp/gm/article/416392/yamanaka4.jpg"><br>山中や菊はたおらぬ湯の匂
+<br>
+〔菊の露を飲んで七百歳まで生きたという菊児童の伝説があるが、ここ山中では菊の力によらずとも、この湯の香りを吸っていると十分に長寿のききめがありそうだ。 〕
+<br><br>
+行き行きて倒れ伏すとも萩の原　【曾良】
+<br>
+〔このまま行けるところまで行って、最期は萩の原で倒れ、旅の途上で死のう。それくらいの、旅にかける志である。〕
+<br><br>
+今日よりや書付消さん笠の露
+<br>
+〔ずっと旅を続けてきた曾良とはここで別れ、これからは一人道を行くことになる。笠に書いた「同行二人」の字も消すことにしよう。笠にかかる露は秋の露か、それとも私の涙か。〕
+<br>
+（山中　1689年7月27日～8月5日)]]></description>
+			<LookAt>
+				<longitude>136.3766306329515</longitude>
+				<latitude>36.24994036214108</latitude>
+				<altitude>0</altitude>
+				<heading>0.0008582984629674176</heading>
+				<tilt>60.00424671744737</tilt>
+				<range>517.9747102770881</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_yamanakaya</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.3766306329515,36.24994036214108,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>41.那谷寺</name>
+			<description><![CDATA[<img src="http://www.tabimati.net/wp/wp-content/uploads/2012/02/natadera1.jpg"><br>石山の石より白し秋の風<br>
+
+〔那谷寺の境内にはたくさんの白石があるが、それより白く清浄に感じるのが吹き抜ける秋の風だ。境内にはおごそかな空気がたちこめている。 〕<br>
+
+（那谷寺　1689年7月26日)]]></description>
+			<LookAt>
+				<longitude>136.4213973394499</longitude>
+				<latitude>36.31328695647891</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004517532546459523</heading>
+				<tilt>0</tilt>
+				<range>1027.683517808984</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ishiyamano</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.4213973394499,36.31328695647891,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>40.太田神社</name>
+			<description><![CDATA[<img src="http://www.intweb.co.jp/basyou/image/kouhan/DSC_0045_edited-1.jpg"><br>むざんやな甲の下のきりぎりす
+<br>
+〔痛ましいことだ。勇ましく散った実盛の名残はもうここには無く、かぶとの下にはただ コオロギが鳴いている。〕
+<br>
+（金沢　1689年7月26日)]]></description>
+			<LookAt>
+				<longitude>136.4602000241408</longitude>
+				<latitude>36.38626100230049</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1341969321938385</heading>
+				<tilt>0</tilt>
+				<range>20789.62174004199</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_muzan</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.4602000241407,36.38626100230049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>39.小松</name>
+			<description><![CDATA[<img src="http://asset.recipe-blog.jp/cache/images/item/e2/38/df29d0b1485e4b6d4bae0719ab521fb3048be238.400x0.none.jpg"><br>しほらしき名や小松吹萩すゝき
+<br>
+〔「小松」という可愛らしい名前のこの地に、萩やススキをゆらして秋の風が吹いている。〕
+<br>
+（金沢　1689年7月26日)]]></description>
+			<LookAt>
+				<longitude>136.4489097418863</longitude>
+				<latitude>36.39528838817186</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004052283256962092</heading>
+				<tilt>0</tilt>
+				<range>999.8818430387667</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shiorasiki</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.4489097418863,36.39528838817186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>38.金沢</name>
+			<description><![CDATA[<img src="http://www.takumise.com/basyou.kanazawa.files/image004.jpg"><br>塚も動け我泣声は秋の風
+<br>
+〔一笑よ、君の塚（墓）を目の前にしているが、生前の君を思って大声で泣いている。あたりを吹き抜ける秋風のように激しくわびしい涙なのだ。塚よ、私の呼びかけに答えてくれ。〕
+<br><br>
+秋涼し手毎にむけや瓜茄子
+<br>
+〔瓜や茄子という秋野菜でもてなしをうけた。いかにも秋の涼しさがあふれる。みなさん、それぞれ瓜や茄子をむこうじゃないですか。その手先にも秋の涼しさを感じてください。〕
+<br><br>
+あかあかと日は難面もあきの風
+<br>
+〔もう秋だというのに太陽の光はそんなこと関係ないふうにあかあかと照らしている。しかし風はもう秋の涼しさを帯びている。 〕
+
+
+（金沢　1689年7月15日～24日)]]></description>
+			<LookAt>
+				<longitude>136.6562051026086</longitude>
+				<latitude>36.5613254030354</latitude>
+				<altitude>0</altitude>
+				<heading>1.553859989629001e-009</heading>
+				<tilt>0</tilt>
+				<range>62860.3861371249</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_akisuzusi</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>136.6562051026086,36.56132540303539,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>37.那古浦</name>
+			<description><![CDATA[<img src="http://static.panoramio.com/photos/large/93776137.jpg"><br>わせの香や分入右は有磯海
+<br>
+〔北陸の豊かな早稲の香りに包まれて加賀の国に入っていくと、右側には歌枕として知られる有磯海が広がっている。〕
+<br>
+（那古浦　1689年7月13日)]]></description>
+			<LookAt>
+				<longitude>137.4079033842702</longitude>
+				<latitude>36.77831105927495</latitude>
+				<altitude>0</altitude>
+				<heading>0.03006810626588495</heading>
+				<tilt>10.15474302094075</tilt>
+				<range>12289.44719364119</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wasenoka</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>137.4079033842702,36.77831105927495,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>36.市振の宿</name>
+			<description><![CDATA[<img src="http://utau.cocolog-nifty.com/photos/uncategorized/2012/12/20/photo_3.jpg"><br>一家に遊女もねたり萩と月
+<br>
+〔みすぼらしい僧形の自分と同じ宿に、はなやかな遊女が偶然居合わせた。その宿にわびしく咲く萩を、こうこうと月が照らしている。なんだか自分が萩で遊女が月に思えてくる。〕
+<br>
+（市振の宿　1689年7月10日)]]></description>
+			<LookAt>
+				<longitude>137.491418675455</longitude>
+				<latitude>36.90148783942526</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002822292131549672</heading>
+				<tilt>4.917872987370056</tilt>
+				<range>31721.08059426562</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_itihuri</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>137.6391567064476,36.97786773745732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>35.国市振の関</name>
+			<description><![CDATA[<img src="http://1.bp.blogspot.com/-rqAqsz3TTWE/VZ81WPhakYI/AAAAAAABhxM/ZLbBnBHI9CI/s1600/IMG_0667%2B-%2B%25E3%2582%25B3%25E3%2583%2594%25E3%2583%25BC.JPG"><be>文月や六日も常の夜には似ず<br>
+
+〔七夕というものは、その前日の六日の夜でさえなんとなくワクワクして特別な夜に感じるよ。〕
+<br><br>
+荒海や佐渡によこたふ天河
+<br>
+〔新潟の荒く波立った海の向こうに佐渡島が見える。その上に天の川がかかっている雄大な景色だ。〕
+<br>
+（越中、国市振の関　1689年7月7日)]]></description>
+			<LookAt>
+				<longitude>137.6466849463531</longitude>
+				<latitude>36.97840131342085</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001401501555346134</heading>
+				<tilt>40.3232345369483</tilt>
+				<range>623.1158509605199</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_humituki</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>137.6439544413594,36.97974217048498,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>34.熊野権現</name>
+			<description><![CDATA[<img src="http://3.bp.blogspot.com/-n_YgxRj2jX8/VZZEWrTO8AI/AAAAAAABhXI/jqqWcjoqJfM/s1600/IMG_0335%2B-%2B%25E3%2582%25B3%25E3%2583%2594%25E3%2583%25BC.JPG"><br>
+象潟や料理何くふ神祭　【曾良】
+<br>
+〔熊野権現のお祭りにでくわす。海辺の象潟であるのに、熊野信仰によって魚を食べるのを禁じられ、何を食べるのだろうか。〕
+<br>
+<br>
+波こえぬ契ありてやみさごの巣
+<br>
+〔岩場の、いかにも波が飛びかかってきそうな危うい位置にみさごの巣がある。古歌に「末の松山波こさじとは」とあるが、強い絆で結ばれたみさごの夫婦なんだろう。〕
+<br>
+（湯殿山神社　1689年6月16日)]]></description>
+			<LookAt>
+				<longitude>139.8983584756543</longitude>
+				<latitude>39.21384820070834</latitude>
+				<altitude>0</altitude>
+				<heading>0.04004234558665375</heading>
+				<tilt>25.32240769640713</tilt>
+				<range>497.6736608160672</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_jinja</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8977881996655,39.21338349504207,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>33.汐越</name>
+			<description><![CDATA[<img src="http://2.bp.blogspot.com/-mAyotPjBCwk/VZZDI44IN4I/AAAAAAABhUw/p5RlTl717so/s1600/IMG_0307%2B-%2B%25E3%2582%25B3%25E3%2583%2594%25E3%2583%25BC.JPG"><br>汐越や鶴はぎぬれて海涼し<br>
+
+〔汐越の浅瀬に鶴が舞い降りた。その脛が海の水に濡れて、いかにも涼しげだ。衣が短くすねが長く見えているのを「鶴はぎ」と言うが、まさに鶴はぎだなあと感心した。〕
+<br>
+（湯殿山神社　1689年6月16日)]]></description>
+			<LookAt>
+				<longitude>139.8983584756543</longitude>
+				<latitude>39.21384820070834</latitude>
+				<altitude>0</altitude>
+				<heading>0.04004234558665375</heading>
+				<tilt>25.32240769640713</tilt>
+				<range>497.6736608160672</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_siokoe</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8968548220169,39.21485877805692,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>32.干満珠寺</name>
+			<description><![CDATA[<img src="http://4.bp.blogspot.com/-AUHRw59Bq-k/VZYkIFg4CLI/AAAAAAABhP4/fQ7YDX0Z4dI/s1600/IMG_0284%2B-%2B%25E3%2582%25B3%25E3%2583%2594%25E3%2583%25BC.JPG"><br>象潟や雨に西施がねぶの花
+<br>
+〔象潟の海辺に合歓の花が雨にしおたれているさまは、伝承にある中国の美女、西施がしっとりうつむいているさまを想像させることよ。〕
+<br>
+（象潟、干満珠寺　1689年6月16日)]]></description>
+			<LookAt>
+				<longitude>139.9032100003409</longitude>
+				<latitude>39.2156239998687</latitude>
+				<altitude>0</altitude>
+				<heading>2.155430102081011e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000009149327</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_naniwagata</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.9032161805913,39.2155761142807,13.53806148758323</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>31.酒田港</name>
+			<description><![CDATA[<img src="http://www.asahiryoko.com/wp-content/uploads/2016/11/s_IMG_4706-e1479357361557.jpg"><br>
+暑き日を海にいれたり最上川
+<br>
+〔最大の大河が滔々と海に流れこむさまは、まことに涼感にあふれて、この川が、暑かった今日一日を海に流し入れたかのようだ。はるか沖合を見ると、今まさに真赤な夕日が波間に沈もうとしている。 〕
+<br>
+（湯殿山神社　1689年6月15日)]]></description>
+			<LookAt>
+				<longitude>139.8212578132001</longitude>
+				<latitude>38.91980717393998</latitude>
+				<altitude>0</altitude>
+				<heading>0.005753232849787821</heading>
+				<tilt>7.309532726935247</tilt>
+				<range>6349.253358367916</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_atukihi</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8123240348839,38.92772561420956,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>30.不玉宅址</name>
+			<description><![CDATA[<img src="http://futennochun.cocolog-nifty.com/photos/uncategorized/2012/10/07/2012sakata0052.jpg"><br>
+あつみ山や　吹浦かけて　夕すゞみ
+<br>
+〔おりからの暑さに縁のある名のあつみ山が彼方に見え、頭をめぐらせば暑気を吹き払うという名の吹浦が見渡されるが、そこへかけての眺望を見渡しながらの夕涼みをするのは、まことに気持ちのよいことである。〕
+<br>
+（酒田、不玉宅址　1689年6月13日)]]></description>
+			<LookAt>
+				<longitude>139.8373098807163</longitude>
+				<latitude>38.91480399468946</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004717997136254294</heading>
+				<tilt>20.82336899601171</tilt>
+				<range>738.9931025070824</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_atumiyama</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8360069740611,38.9146038362157,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>29.湯殿山の霊域</name>
+			<description><![CDATA[<img src="http://www.dewatabi.com/syounai/dawa/yudonosan/02.JPG"><br>
+語られぬ湯殿にぬらす袂かな
+<br>
+〔いにしえより恋の山と聞こえた湯殿の里に分け入れば、語らず聞かずの幽谷の奥に尊き神秘を拝し、袂を濡らしたことであるよ。〕
+<br>
+湯殿山銭ふむ道の泪かな　【曾良】
+<br>
+〔湯殿山の霊域では、落ちたものを拾い上げることが禁じられている。こうした訳からだろうか、参道は、お賽銭を散り敷いたような有様であるよ。これを踏みつつお参りに上がると、かたじけない思いで涙がこぼれるのである。〕
+<br>
+（湯殿山神社　1689年6月7日)]]></description>
+			<LookAt>
+				<longitude>139.9861007957092</longitude>
+				<latitude>38.54155389764394</latitude>
+				<altitude>0</altitude>
+				<heading>-2.860462538765782e-006</heading>
+				<tilt>0</tilt>
+				<range>1007.585459931999</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_yudennsann</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.9861564868256,38.54146677620753,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>28.月山権現</name>
+			<description><![CDATA[<img src="http://www.geocities.jp/enshin633/gasan02.jpg"><br>雲の峯幾つ崩て月の山
+<br>
+
+〔昼間の陽射しの中で、猛々しく起立していた雲の峰はいつしか崩れ、今は、薄明かりに照らされた月の山が嫋(たお)やかに横たえているばかりであるよ。〕
+<br>
+（月山　1689年6月6日)]]></description>
+			<LookAt>
+				<longitude>140.0268709832712</longitude>
+				<latitude>38.54867549648441</latitude>
+				<altitude>0</altitude>
+				<heading>-0.06685716408786799</heading>
+				<tilt>59.90420738369632</tilt>
+				<range>203.4582249335266</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_tukiyama</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.0269787499917,38.54870368679367,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>27.羽黒権現</name>
+			<description><![CDATA[<img src="http://kumiko-phytoncide.c.blog.so-net.ne.jp/_images/blog/_15a/kumiko-phytoncide/P6E7BEBDE9BB92E5B1B1E4BA94E9878DE5A194.jpg?c=a0"><br>涼しさやほの三か月の羽黒山
+<br>
+〔日の落ちた羽黒山に佇み、西の空を眺めれば、はるかな山のあたりに三日月が出ているよ。たちこめる山気の中に見る月は、神々しくさえ感じられることである。〕
+<br>
+（羽黒山　1689年6月5日)]]></description>
+			<LookAt>
+				<longitude>139.9826180697449</longitude>
+				<latitude>38.70234700472122</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0003539385555250079</heading>
+				<tilt>2.125060937032886</tilt>
+				<range>1003.305312452725</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_haguro</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.9829471130062,38.70233765290197,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>26.本坊宝前院若王寺</name>
+			<description><![CDATA[<img src="http://tencoo.fc2web.com/jinja/dewasan01w.jpg"><br>有難や雪をかほらす南谷
+<br>
+〔この霊山の谷あいから、雪の香の南風が吹き寄せています。旅に疲労した我が身にとっては、この上なく尊く有難いことです。〕
+<br>
+（羽黒山、本坊宝前院若王寺　1689年6月4日)]]></description>
+			<LookAt>
+				<longitude>139.9821991804827</longitude>
+				<latitude>38.70235457008985</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004233654251549551</heading>
+				<tilt>52.00814268760879</tilt>
+				<range>279.7512927430117</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arigataya</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.9818928525298,38.70254000715881,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>25.清川</name>
+			<description><![CDATA[<img src="http://ww6.tiki.ne.jp/~nieda/iwagami.jpg"><br>五月雨をあつめて早し最上川<br>
+
+数々の山川から五月雨を集めてきた最上川は、ここに至り、更に両岸の山から直接水を集めて満ち満ちて、滑るような勢いで流れていく。<br>　　
+
+（最上川河港、清川　1689年6月3日)]]></description>
+			<LookAt>
+				<longitude>140.022396546386</longitude>
+				<latitude>38.79053411671366</latitude>
+				<altitude>0</altitude>
+				<heading>-0.05779398197594932</heading>
+				<tilt>46.17926123224796</tilt>
+				<range>612.2280135723588</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_samidare</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.0207608518113,38.79022251670354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>24.立石山</name>
+			<description><![CDATA[<img src="http://neco-bomb.pussycat.jp/ana_ps2/img/38.jpg"><br>閑さや岩にしみ入蝉の声<br>
+
+〔なんと静かに思えることよ。その鳴き声しか聞こえず、かえって静けさがつのるように感じられる蝉の声は、まるで岩々にしみこんでいるかのようだ。 〕
+<br>
+（養泉寺、清風の家　1689年5月27日)]]></description>
+			<LookAt>
+				<longitude>140.4353601758267</longitude>
+				<latitude>38.31200152605477</latitude>
+				<altitude>0</altitude>
+				<heading>0.004386244670194831</heading>
+				<tilt>46.11011904710958</tilt>
+				<range>819.5200851391682</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_sizukesa</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.4348715379399,38.31181224503112,252.9957027485244</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>23.養泉寺</name>
+			<description><![CDATA[<img src="http://www.bashouan.com/YO_Photo/c04_2.jpg"><br>涼しさを我宿にしてねまる也
+<br>
+這出よかひやが下のひきの声
+<br>
+まゆはきを俤にして紅粉の花
+<br><br>
+〔旅先ながら、涼しい座敷でくつろいでいますので、まるで我が家にでも居るような心持で過ごしていますよ。〕
+<br>
+〔飼屋の下から聞こえるカエルの鳴き声を聞いていると、つい、万葉の歌に詠まれたあの蛙のことが思い出される。ヒキガエルよ、さあ、そこから這い出してこちらにやってこないか。〕
+<br>
+〔紅花を眺めながらの旅は、心まで華やぐものであるよ。こうした心地で紅花に目を遣ると、女性が化粧で使用するまゆはきが思い出されることだ。〕
+<br><br>
+蚕飼する人は古代のすがた哉　【曾良】
+<br>
+〔蚕飼いする人の、かいがいしく働く姿や仕草は、大昔から少しも変わっていないことだと、しみじみ思うことであるよ。〕
+<br>
+（養泉寺、清風の家　1689年5月18日～27日)]]></description>
+			<LookAt>
+				<longitude>140.4011150450691</longitude>
+				<latitude>38.60767860860887</latitude>
+				<altitude>6.088591500028799</altitude>
+				<heading>-0.03118548980404213</heading>
+				<tilt>28.67135325928879</tilt>
+				<range>242.0036301972808</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_suzusisa</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.4003918930175,38.60787204353009,100.5067181471512</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>22.封人の家</name>
+			<description><![CDATA[<img src="http://media-cdn.tripadvisor.com/media/photo-s/07/15/40/3d/caption.jpg"><br>蚤虱馬の尿する枕もと
+<br>
+蚤や虱に悩まされる旅夜ではあるが、人と住まいを共にする習いの中、馬が枕もとで小便をするというのも心安く趣があるものだ。
+<br>
+（堺田、封人（国境の番人）の家　1689年5月15日)]]></description>
+			<LookAt>
+				<longitude>140.6165740998235</longitude>
+				<latitude>38.73756659985282</latitude>
+				<altitude>0</altitude>
+				<heading>-1.103779696655099e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.00000658528</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_kaiko</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.6166174401973,38.73743137351534,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>21.経堂・光堂</name>
+			<description><![CDATA[<img src="http://www.anta.or.jp/midokoro/20111112/images/img_06.jpg"><br>五月雨の降のこしてや光堂
+<br>
+〔あたりの建物が、雨風で朽ちていく中で、光堂だけが昔のままに輝いている。まるで、光堂にだけは、五月雨も降り残しているようなことではないか。〕
+<br>
+（平泉、金色堂　1689年5月13日)]]></description>
+			<LookAt>
+				<longitude>141.1004925705766</longitude>
+				<latitude>39.00133634016104</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0005967963641041435</heading>
+				<tilt>0.02359129655640959</tilt>
+				<range>1031.387296435556</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_hikaridou</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>141.0998520310826,39.00138559117569,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20.平泉</name>
+			<description><![CDATA[<img src="http://www.nobscafe.net/data/hiraizumi/hiraizumi.jpg"><br>夏草や兵どもが夢の跡
+<br>
+〔人気のないところに、今はただ夏草だけが生い茂るばかりだが、ここは、かつて義経主従や藤原一族の者たちが功名・栄華を夢見たところである。知るや知らずやこの夏草を眺めていると、すべてが一炊の夢と消えた哀れさに心が誘われる。〕
+<br>
+卯の花に兼房みゆる白毛かな　【曾良】
+<br>
+〔夏草に混じって咲いている白い卯の花を見ていると、兼房が、白髪をふり乱して敵に向かう姿が浮かんでくることよ。〕
+<br>
+（平泉　1689年5月13日)]]></description>
+			<LookAt>
+				<longitude>141.1136541043471</longitude>
+				<latitude>38.98684512318911</latitude>
+				<altitude>0</altitude>
+				<heading>0.0006589842649971114</heading>
+				<tilt>30.00094452215019</tilt>
+				<range>210.2337217371699</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_natukusaya</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>141.1138911460865,38.98662186628783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19.久之助の旅宿</name>
+			<description><![CDATA[<img src="http://www.ubudo.jp/kanko/images/kanko_photo_godaido.jpg"><br>松島や鶴に身をかれほとゝぎす　【曾良】
+<br>
+〔これほどまでに壮大で感嘆させる松島なのだから、松島には鶴が一番似つかわしい。そこで鳴いているほととぎすよ、いっそのこと鶴の姿になって飛んでみてはどうだ。〕
+<br>
+（雄島を見た後、松島の宿に戻って　1689年5月9日)]]></description>
+			<LookAt>
+				<longitude>141.060440417827</longitude>
+				<latitude>38.37182880152456</latitude>
+				<altitude>0</altitude>
+				<heading>0.0003876465617365776</heading>
+				<tilt>17.13849995135328</tilt>
+				<range>364.0329467463129</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_matsusima</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>141.0599722854309,38.37186558395327,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>18.大崎庄左衛門の旅籠屋</name>
+			<description><![CDATA[<img src="http://www.bashouan.com/YTG_Photo/b09.jpg"><br>あやめ草足に結ん草鞋の緒
+
+<br>
+〔ころはちょうど端午の節句。軒端には邪気ばらいの菖蒲がさしてある。わたしも旅の無事を祈って(餞別にもらった紺染の緒のように)草履にあやめ草を結び、出立することにしよう。〕
+<br>
+（国分町、大崎庄左衛門の旅籠屋　1689年5月5日～5月7日)]]></description>
+			<LookAt>
+				<longitude>140.8686258509766</longitude>
+				<latitude>38.26410204154483</latitude>
+				<altitude>0</altitude>
+				<heading>0.001829172620259014</heading>
+				<tilt>9.706253483263373</tilt>
+				<range>874.3866949076345</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ayame</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.8681244765324,38.2638253442282,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>17.武隈の松</name>
+			<description><![CDATA[<img src="http://www.bashouan.com/YIW_photo/n15.jpg"><br>桜より松は二木を三月越し
+<br>
+
+〔桜よりも、私を待っていてくれたのは二木の松で、三月越しにようやく見ることができましたよ。〕
+<br>
+（岩沼の宿、武隈の松　1689年5月4日)]]></description>
+			<LookAt>
+				<longitude>140.8646584730824</longitude>
+				<latitude>38.10445397663219</latitude>
+				<altitude>0</altitude>
+				<heading>0.00167767182563031</heading>
+				<tilt>0</tilt>
+				<range>1098.193812781279</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_sakura</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.8628336812323,38.1067536070297,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16.白石宿</name>
+			<description><![CDATA[<img src="http://2.bp.blogspot.com/-OetorEzazCw/VEnAiMHepoI/AAAAAAABb9A/r6vm9m5859I/s1600/IMG_6609%2B-%2B%E3%82%B3%E3%83%94%E3%83%BC.JPG"><br>笠嶋はいづこさ月のぬかり道
+
+<br>
+〔実方ゆかりの笠島はどの辺りなのだろうか。五月の雨でぬかるんだこの道では、尋ねていくこともできない。〕
+<br>
+（藤原実方の墓に行きたくて行けなかった　1689年5月3日)]]></description>
+			<LookAt>
+				<longitude>140.6272375999226</longitude>
+				<latitude>38.00490280009069</latitude>
+				<altitude>0</altitude>
+				<heading>-4.761608413619031e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000030942417</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_kasa</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.6272559708411,38.00471944792162,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1.深川</name>
+			<description>松尾芭蕉の家がもともとあった場所</description>
+			<LookAt>
+				<longitude>139.7970258996099</longitude>
+				<latitude>35.67671689985603</latitude>
+				<altitude>0</altitude>
+				<heading>-2.274700902635893e-010</heading>
+				<tilt>0</tilt>
+				<range>994.2561670143259</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_02</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7970511670539,35.67658690806869,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2.杉風別墅</name>
+			<description><![CDATA[<img src="http://hosomichi.roudokus.com/images/Saito.jpg">
+<br>
+
+草の戸も住替る代ぞひなの家<br>
+
+〔戸口が草で覆われたこのみすぼらしい深川の宿も、私にかわって新しい住人が住み、綺麗な雛人形が飾られるようなはなやかな家になるのだろう。〕<br>
+
+（杉山杉風の別墅採荼庵　1689年2月末）]]></description>
+			<LookAt>
+				<longitude>139.791549218196</longitude>
+				<latitude>35.68655086522326</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0004464640153490511</heading>
+				<tilt>0</tilt>
+				<range>994.0182201297947</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_020</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7908024053774,35.68713133688865,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3.千住大橋</name>
+			<description><![CDATA[<img src="http://s-ohtsuki.sakura.ne.jp/sansakutenbyou/event/Sumidagawa-1%20KitaSenju-MikawashimaH170507/Sumidagawa-1%20KitaSenju-MikawashimaH170507%20010.jpg"><br>
+
+行春や鳥啼魚の目は泪<br>
+
+〔春が過ぎ去るのを惜しんで鳥も魚も目に涙を浮かべているようだ。〕<br>
+
+（千住大橋　1689年3月27日）]]></description>
+			<LookAt>
+				<longitude>139.79845450991</longitude>
+				<latitude>35.73906449014224</latitude>
+				<altitude>0</altitude>
+				<heading>0.000626987074825018</heading>
+				<tilt>0</tilt>
+				<range>671.5948926734056</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_gyousui</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7975691247926,35.73936732403068,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4.日光</name>
+			<description><![CDATA[<img src="http://www.nikko-kankou.org/db_img/cl_img/2/main.jpg"><br>あらたうと青葉若葉の日の光<br>
+
+〔青葉や若葉に差し込む日の光は、この日光山が国の八方まで放つご威光そのもので、実に尊いものであるよ。〕
+<br>
+（日光山 1689年4月1日）]]></description>
+			<LookAt>
+				<longitude>139.6007559451159</longitude>
+				<latitude>36.75439631280399</latitude>
+				<altitude>0</altitude>
+				<heading>-0.000231719733674054</heading>
+				<tilt>0</tilt>
+				<range>1518.955489956193</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_aratau</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6007559451159,36.75439631280398,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5.裏見の滝</name>
+			<description><![CDATA[<img src="http://outdoor.geocities.jp/gmrbg004/IMG_0712.jpg"><br>暫時は瀧に籠るや夏の初
+
+<br>〔轟く水音のみを聞いて滝裏にしばらくこもれば、雑念が払われ、まるで夏行の初めのような境地となるのである。〕
+
+<br>(日光裏見滝 1689年4月2日)]]></description>
+			<LookAt>
+				<longitude>139.5564069001117</longitude>
+				<latitude>36.75681339921151</latitude>
+				<altitude>0</altitude>
+				<heading>6.683935663095581e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000064797094</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_zenji</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5564154121382,36.75664291762314,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6.玉生</name>
+			<description><![CDATA[<img src="http://cdn-ak.f.st-hatena.com/images/fotolife/k/khannic/20110914/20110914085027.jpg"><br>かさねとは八重撫子の名成るべし　【曾良】<br>
+
+〔このような片田舎で、思いもよらず、なかなか上品で美しい響きの「かさね」という名の小さい娘に出会った。花なら、さしずめ、花びらが重なって美しい八重撫子の名と言ったところであるよ。〕
+<br>
+(日光→那須の知人の家へ行く途中に馬を借りた民家 1689年4月2日)]]></description>
+			<LookAt>
+				<longitude>139.8506257791247</longitude>
+				<latitude>36.77751582815501</latitude>
+				<altitude>0</altitude>
+				<heading>7.407208208437652e-005</heading>
+				<tilt>28.27553611701825</tilt>
+				<range>380.9589640029208</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_kasane</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8503564674839,36.77719755129574,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7.修験光明寺</name>
+			<description><![CDATA[<img src="https://upload.wikimedia.org/wikipedia/ja/thumb/e/e2/Koumyouji5626.JPG/280px-Koumyouji5626.JPG"><br>夏山に足駄を拝む首途哉
+
+<br>〔みちのくへの長途の旅を前にして、北方はるかに連なる奥羽の山並をうかがいながら、役行者と高足駄に旅の無事と健脚を祈って手を合わせたのである。〕
+
+<br>(黒羽、修験光明寺 桃雪宅と余瀬の翠桃宅1689年4月3日～4月16日)]]></description>
+			<LookAt>
+				<longitude>140.1018953997919</longitude>
+				<latitude>36.86833289981347</latitude>
+				<altitude>0</altitude>
+				<heading>-1.248335906927616e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.000016223552</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_natuyama</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.1019617607737,36.8682267193341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8.仏頂和尚の山居跡</name>
+			<description><![CDATA[<img src="http://www.bashouan.com/YNs_Photo/k_u01_4.jpg"><br>木啄も庵はやぶらず夏木立
+
+<br>〔さすがのきつつきも、仏頂和尚の結んだ山居だけはやぶろうとはしないようだ。こうして、うっそうとした木々の中に和尚が修行した庵を拝見することができたのはありがたいことだ〕
+
+<br>(雲厳寺、仏頂和尚の山居跡　1689年4月5日)]]></description>
+			<LookAt>
+				<longitude>140.2098355122609</longitude>
+				<latitude>36.85294294901171</latitude>
+				<altitude>0</altitude>
+				<heading>7.965319928123843e-005</heading>
+				<tilt>10.13345369053818</tilt>
+				<range>796.780453002423</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_kitutuki</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.2098114755709,36.85289841578316,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9.殺生石</name>
+			<description><![CDATA[<img src="http://www.tabiru.info/photo/090328/020.jpg"><br>野を横に馬牽むけよほとゝぎす
+
+<br>〔どこやらでほととぎすが鳴いているよ。さあ、聞こえる方に馬を差し向けて、いっしょに聞こうではないか。〕
+
+<br>(殺生石、馬で送ってくれた館代に1689年4月19日)]]></description>
+			<LookAt>
+				<longitude>139.9989162004765</longitude>
+				<latitude>37.10162499860468</latitude>
+				<altitude>0</altitude>
+				<heading>2.874553515559912e-010</heading>
+				<tilt>0</tilt>
+				<range>1000.290941493077</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_sessyou</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.9989222529107,37.1015187332271,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10.遊行柳</name>
+			<description><![CDATA[<img src="http://www.bashouan.com/YNs_Photo/n_y01.jpg"><br>田一枚植て立去る柳かな
+
+<br>〔遥かと思っていた柳が目の前にあり、その木陰でしばらく安らかにしていると、いつのまにか、田植えが一枚分終わって早乙女たちの声が消え、ぽつんととり残されてしまった。それでは、私もここを立ち去って旅を続けるとしよう。
+〕
+<br>
+(遊>行柳、西行が歌を詠んだ場所　1689年4月20日)]]></description>
+			<LookAt>
+				<longitude>140.1654291813877</longitude>
+				<latitude>36.99497059756462</latitude>
+				<altitude>0</altitude>
+				<heading>9.675171007699662e-009</heading>
+				<tilt>0</tilt>
+				<range>1029.064777723274</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_taitimai</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.1654354003185,36.99487126624369,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11.白河の関跡</name>
+			<description><![CDATA[<img src="http://www.bashouan.com/YS_Photo/a01.jpg"><br>卯の花をかざしに関の晴着かな　【曾良】<br>
+
+〔この関を通るとき、古人は冠を正し、衣装を改めたというが、私にはこのような用意もないので、せめて卯の花を髪にかざして関を通ることにしよう。〕<br>
+
+(白河の関跡～関山　1689年4月21日)]]></description>
+			<LookAt>
+				<longitude>140.2284248001332</longitude>
+				<latitude>37.04711580028614</latitude>
+				<altitude>0</altitude>
+				<heading>8.022313073055428e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000037988732</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_unohana</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.2284550122774,37.04702899185875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12.相楽等躬宅</name>
+			<description><![CDATA[<img src="http://www.bashouan.com/YG_Photo/t00.jpg"><br>風流の初やおくの田植うた<br>
+
+〔白河の関を越えると、歌いながら田植えをするという、実に趣きのある光景が目にとまった。これは、旅に出て最初の風流な味わいであることよ。〕<br>
+
+(須賀川本町、相楽等躬宅　1689年4月22日)]]></description>
+			<LookAt>
+				<longitude>140.3745422384374</longitude>
+				<latitude>37.2881455770795</latitude>
+				<altitude>0</altitude>
+				<heading>-4.391614965562178e-005</heading>
+				<tilt>6.33172909814256</tilt>
+				<range>8690.038077137302</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_huuryuya</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.3749098146365,37.28570742126204,270.138450749754</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13.相楽等躬宅　（簗井弥三郎住居）</name>
+			<description><![CDATA[<img src="http://www.bashouan.com/YG_Photo/i01.jpg"><br>世の人の見付ぬ花や軒の栗
+<br>
+〔世間を避けるようにひっそりと暮らしている僧がおり、その住まいの軒先には、栗の花が人目につかず咲いている。いかにも奥ゆかしいことだ。〕
+<br>
+(相楽等躬宅の一隅、簗井弥三郎の住居　1689年4月28日)]]></description>
+			<LookAt>
+				<longitude>140.3758955642438</longitude>
+				<latitude>37.28670266112562</latitude>
+				<altitude>0</altitude>
+				<heading>0.001098585462769509</heading>
+				<tilt>26.94958104140317</tilt>
+				<range>488.0737785786138</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_yonohito</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.3748636182855,37.28645091651757,265.6950697754773</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14.文知摺石</name>
+			<description><![CDATA[<img src="http://www.bashouan.com/YFk_Photo/f06.jpg"><br>早苗とる手もとや昔しのぶ摺
+<br>
+〔早苗をとっている早乙女たちの手元を見ていると、むかし、しのぶ摺りをした手つきもおなじようだったのかと偲ばれることだ。〕
+<br>
+（文知摺石　1689年5月2日)]]></description>
+			<LookAt>
+				<longitude>140.514276191621</longitude>
+				<latitude>37.7707084194024</latitude>
+				<altitude>0</altitude>
+				<heading>4.377429430877363e-005</heading>
+				<tilt>37.0768171610664</tilt>
+				<range>19.78542774503042</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_sanae</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.5142635610013,37.77071054256238,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15.佐藤庄司の旧跡</name>
+			<description><![CDATA[<img src="http://www.bashouan.com/YFk_Photo/b02.jpg"><br>笈も太刀も五月にかざれ帋幟
+<br>
+〔端午の節句の５月なのだから、弁慶の笈も義経の太刀も、帋幟といっしょに飾って祝ってもらいたいものだ。〕
+<br>
+（瑠璃光山医王寺　1689年5月1日)]]></description>
+			<LookAt>
+				<longitude>140.4411943197128</longitude>
+				<latitude>37.82288235714159</latitude>
+				<altitude>0</altitude>
+				<heading>0.000251911046553709</heading>
+				<tilt>0</tilt>
+				<range>1092.637782502479</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_sao</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>140.4411077176581,37.8225455867514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>深川～杉原杉風家</name>
+			<LookAt>
+				<gx:TimeStamp><when>2000</when>
+</gx:TimeStamp>
+				<longitude>139.7965292510817</longitude>
+				<latitude>35.67917777777777</latitude>
+				<altitude>0</altitude>
+				<heading>0.2016987343504095</heading>
+				<tilt>31.74533156632494</tilt>
+				<range>1463.947504480797</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>
+					139.7975022647872,35.67589655955204,83 139.7900521504658,35.67861933103903,83 139.7876085179176,35.67957450076528,83 139.7910766090154,35.68664538835581,83 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
